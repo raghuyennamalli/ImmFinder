@@ -1,0 +1,1535 @@
+Gene Symbol,log2FoldChange,Pvalue,Padjusted,innate_immune,species,condition,adaptive,gene_category
+SIGLEC11,2.249345173,0.0002514156782,0.002118694709,TRUE,Bos indicus,milk production,FALSE,immune
+CFB,3.235934148,9.55E-08,2.66E-06,TRUE,Bos indicus,milk production,FALSE,immune
+AXL,-6.228949048,0.0316883356,0.09685731982,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MIR200C,-24.57935303,3.56E-16,3.98E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+STAG3,-2.36114888,4.89E-05,0.0005397364248,FALSE,Bos indicus,milk production,TRUE,immune
+ISG15,3.876827881,5.87E-14,3.37E-10,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+CXCL3,5.103484264,5.59E-15,2.34E-12,FALSE,Bos indicus,milk production,TRUE,immune
+PIAS1,2.504330909,0.000225637581,0.001940266498,TRUE,Bos indicus,milk production,FALSE,immune
+S100A8,3.723694838,1.12E-12,1.78E-10,TRUE,Bos indicus,milk production,FALSE,immune
+FFAR2,6.918458941,1.30E-15,6.67E-13,TRUE,Bos indicus,milk production,FALSE,immune
+EPG5,2.98834094,6.18E-07,1.31E-05,FALSE,Bos indicus,milk production,TRUE,immune
+LOC617833,-6.372201164,0.01572977063,0.05518312974,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC100852077,4.545314387,3.11E-10,2.00E-08,FALSE,Bos indicus,milk production,TRUE,immune
+IL17RD,2.566343597,6.13E-05,0.0006506605615,FALSE,Bos indicus,milk production,TRUE,immune
+LOC100848555,-23.54412378,5.76E-15,4.54E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+BCL3,3.810320436,8.22E-11,6.37E-09,TRUE,Bos indicus,milk production,FALSE,immune
+LOC508666,3.60010226,4.81E-10,2.88E-08,FALSE,Bos indicus,milk production,TRUE,immune
+LOC781112,-23.73774087,3.46E-15,2.85E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IFIT2,-3.935864237,0.1745225288,0.4000098524,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL22RA2,4.765791555,3.21E-09,1.42E-07,TRUE,Bos indicus,milk production,TRUE,immune
+PIAS4,-2.924225783,0.3129096463,0.6296596968,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IGSF10,4.142676412,2.72E-05,0.0003292365872,FALSE,Bos indicus,milk production,TRUE,immune
+BOLA-DQB,-5.519730143,0.05713745982,0.1569495516,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+GRK5,-5.065474141,0.0807451235,0.20848765,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CCR3,3.511508655,3.42E-07,8.11E-06,TRUE,Bos indicus,milk production,TRUE,immune
+MIR146A,-3.335331727,0.1823610212,0.4146917527,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CYLD,2.606342106,6.78E-05,0.0007086663137,TRUE,Bos indicus,milk production,FALSE,immune
+MEFV,2.25218315,0.04961230264,0.5248346973,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+RARRES2,-8.766617437,0.001069907754,0.005460101572,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+RAG1,-22.4405075,9.98E-14,6.58E-13,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SIGLEC1,2.944376675,0.00128618743,0.08509119224,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+CCL3,2.941505,5.09E-14,1.20E-10,FALSE,Bos taurus,MAP Infection,TRUE,immune
+CRLF2,-13.2760285,1.06E-05,6.76E-05,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MASP1,-2.147023272,0.004365312128,0.02108004322,TRUE,Bos indicus,milk production,FALSE,immune
+NAIP,2.315989,4.77E-12,2.93E-09,TRUE,Bos taurus,MAP Infection,FALSE,immune
+MAFB,2.53768325,8.05E-07,1.65E-05,TRUE,Bos indicus,milk production,FALSE,immune
+CD274,3.017326305,7.16E-05,0.01247235589,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+MX2,3.074081228,0.003174744286,0.01422122406,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MAP1LC3C,2.05121584,0.1079444399,0.2240311057,TRUE,Bos indicus,milk production,FALSE,immune
+CXCR2,5.079390725,4.69E-11,3.92E-09,FALSE,Bos indicus,milk production,TRUE,immune
+LOC112441494,-5.941067506,0.04040444781,0.1181868758,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+GRO1,-2.922134434,0.277559554,0.5770526538,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+FZD1,-6.939310775,5.02E-05,0.0003090112374,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CTSH,2.180513664,4.15E-08,1.29E-06,TRUE,Bos indicus,milk production,FALSE,immune
+ZC3H12A,2.361612087,8.01E-06,0.0001180750891,TRUE,Bos indicus,milk production,FALSE,immune
+IRAK2,-2.824892517,0.3297468547,0.6537908609,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+S100A12,-2.384910742,0.2268219034,0.4956421443,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SYP,-6.919896052,0.02181004682,0.07187846383,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+VSIG1,-7.122827608,0.01821808513,0.06225912331,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC112445610,-3.911244916,5.96E-05,0.0006352078491,FALSE,Bos indicus,milk production,TRUE,immune
+LOC508441,3.792483316,2.24E-11,2.11E-09,FALSE,Bos indicus,milk production,TRUE,immune
+CCL14,-6.357979451,0.03514745641,0.1052849338,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CD209,-2.032924625,8.50E-08,1.87E-07,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+MIR328,-8.106167118,0.007188357563,0.0288360757,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+C7,-9.43885635,0.0007691072217,0.004036681134,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+ITK,-9.605604186,0.001097296331,0.005580356818,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+ISG15,3.232959801,1.39E-12,7.81E-12,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+SAG,4.051588517,2.74E-09,1.25E-07,FALSE,Bos indicus,milk production,TRUE,immune
+LGMN,-2.70633268,0.3505434937,0.6827940624,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+BOLA-DYA,-24.50143443,4.40E-16,4.64E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL13RA1,3.817897376,4.14E-09,1.75E-07,TRUE,Bos indicus,milk production,TRUE,immune
+VASP,2.546644631,1.26E-08,4.56E-07,TRUE,Bos indicus,milk production,FALSE,immune
+CCL4,2.259527173,0.04337635075,0.4937601812,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+KIR3DL2,2.170364052,0.002008274846,0.02383016299,TRUE,Bos taurus,MAP Infection,TRUE,immune
+TLR9,-3.876654627,0.1815558457,0.4130596893,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TIE1,-2.592733639,0.01891626368,0.3607302123,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+LILRA4,2.227438064,0.0001471571998,0.001365987502,TRUE,Bos indicus,milk production,TRUE,immune
+BCAR1,-6.174410576,0.03326788315,0.1007261884,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+ACHE,2.802813338,4.33E-09,1.80E-07,TRUE,Bos indicus,milk production,FALSE,immune
+LOC519242,-2.544317427,0.03165980448,0.09389146266,FALSE,Bos indicus,milk production,TRUE,immune
+YJEFN3,-9.237821168,0.0009036031951,0.004667792495,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC101903252,-3.198937375,0.001052211364,0.006829045604,FALSE,Bos indicus,milk production,TRUE,immune
+C1QBP,-2.300741017,0.4272330284,0.7741126784,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CXCL8,5.42673123,4.65E-12,5.91E-10,FALSE,Bos indicus,milk production,TRUE,immune
+SCAMP5,-7.905778305,0.006690430266,0.02710234318,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SOCS1,2.774526879,0.0002050197169,0.02507470976,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+SLAMF8,2.103623,1.09E-05,0.000770378,TRUE,Bos taurus,MAP Infection,FALSE,immune
+IGSF3,2.00305,0.02422859,0.2227334,FALSE,Bos taurus,MAP Infection,TRUE,immune
+CXCR1,4.387887764,4.18E-09,1.75E-07,TRUE,Bos indicus,milk production,TRUE,immune
+LOC112445615,2.927861228,3.44E-09,1.50E-07,FALSE,Bos indicus,milk production,TRUE,immune
+LOC790181,2.521117317,5.23E-08,1.56E-06,FALSE,Bos indicus,milk production,TRUE,immune
+LOC112445797,-7.933357492,0.005167089335,0.02172695411,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL31RA,-4.336013941,0.001489333715,0.009033105335,FALSE,Bos indicus,milk production,TRUE,immune
+SELE,4.552718069,5.85E-05,0.0006255007561,TRUE,Bos indicus,milk production,FALSE,immune
+LGMN,2.103032892,0.0005478057191,0.04933406374,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+ITGAM,2.723377721,1.42E-08,5.03E-07,TRUE,Bos indicus,milk production,FALSE,immune
+BOLA-DQA5,2.325456303,0.01604935186,0.3395632244,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+PGLYRP1,-2.583487134,0.006675113832,0.2310234065,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IL17REL,5.235576616,2.61E-16,2.14E-13,FALSE,Bos indicus,milk production,TRUE,immune
+CCR9,-2.367581852,4.50E-05,0.0005071086713,FALSE,Bos indicus,milk production,TRUE,immune
+IL15,-3.974530056,0.1709111181,0.3926038995,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IRF6,-23.73005625,8.78E-16,8.20E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC100848815,-3.676019232,0.2046081189,0.4562957215,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+BGN,-2.28140648,0.002483086106,0.01352573824,TRUE,Bos indicus,milk production,FALSE,immune
+CD209,2.742867334,5.61E-05,0.0006043324718,TRUE,Bos indicus,milk production,FALSE,immune
+BOLA-DQB,3.678299755,0.0009552513429,0.001082361401,FALSE,Bos taurus,BRSV Infection,TRUE,immune
+LOC100847267,-23.14597516,1.64E-14,1.18E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CXCL16,-5.221829805,0.07196817316,0.1892968173,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TNFRSF18,2.88778,7.15E-06,0.000538202,TRUE,Bos taurus,MAP Infection,FALSE,immune
+IGSF23,-25.78549916,1.20E-17,2.97E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IGHMBP2,2.234787702,7.27E-06,0.0001087458557,FALSE,Bos indicus,milk production,TRUE,immune
+TRIB2,-3.375422824,2.76E-09,1.26E-07,TRUE,Bos indicus,milk production,FALSE,immune
+CD3G,-2.125213523,0.001022348815,0.006667451803,FALSE,Bos indicus,milk production,TRUE,immune
+IL34,-12.29834983,4.52E-05,0.0002792563514,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CRLF2,2.928320463,6.78E-10,3.91E-08,FALSE,Bos indicus,milk production,TRUE,immune
+PIK3AP1,3.544353537,2.61E-09,1.21E-07,TRUE,Bos indicus,milk production,FALSE,immune
+PIK3R1,-2.23359403,4.42E-10,2.68E-08,TRUE,Bos indicus,milk production,FALSE,immune
+ITGA3,-2.370217772,1.79E-05,0.0002324138592,TRUE,Bos indicus,milk production,FALSE,immune
+CD300E,-6.79043299,0.02441153618,0.0785338055,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TNF,5.030124,1.84E-13,2.72E-10,TRUE,Bos taurus,MAP Infection,FALSE,immune
+MIR130A,-24.33655307,6.92E-16,6.72E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+ACE2,2.566673426,0.0001738003078,0.004703579094,TRUE,Bos taurus,MAP Infection,FALSE,immune
+F11,2.529937099,8.25E-06,0.0005921640612,TRUE,Bos taurus,MAP Infection,FALSE,immune
+CD248,-8.44969089,0.002816056488,0.01282568293,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL10RA,2.47600888,5.07E-06,8.04E-05,FALSE,Bos indicus,milk production,TRUE,immune
+IL23R,3.213249242,0.0001684184054,0.001523748621,FALSE,Bos indicus,milk production,TRUE,immune
+XCR1,-5.554080596,0.06594831187,0.1756505817,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL1F10,5.651830746,8.19E-07,1.68E-05,FALSE,Bos indicus,milk production,TRUE,immune
+IRAK2,2.194102,5.12E-09,1.23E-06,TRUE,Bos taurus,MAP Infection,TRUE,immune
+RICTOR,2.020028397,0.00496760152,0.02335859717,TRUE,Bos indicus,milk production,FALSE,immune
+BOLA-NC1,-2.312882845,0.4247337438,0.7715002929,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CXCL16,2.357877336,1.27E-05,0.0001746377383,FALSE,Bos indicus,milk production,TRUE,immune
+UCP2,-2.318743099,0.4235757578,0.7703122755,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL36B,-6.641818218,0.02768615068,0.08711286385,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SIGLEC10,-2.941353638,0.3107497118,0.6264365012,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+PVRIG,-2.354812355,0.001758090971,0.01033642048,FALSE,Bos indicus,milk production,TRUE,immune
+AICDA,-2.232588795,0.004363091327,0.02107439093,TRUE,Bos indicus,milk production,FALSE,immune
+IL12RB2,-4.04572028,2.47E-12,3.46E-10,FALSE,Bos indicus,milk production,TRUE,immune
+XIAP,-2.384138088,0.4106224062,0.7557900939,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IGSF9,-6.531983498,0.005322290781,0.02226290514,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SPAG16,-2.206194177,0.001121128626,0.007172352799,FALSE,Bos indicus,milk production,TRUE,immune
+MX1,4.022404165,5.80E-06,3.70E-05,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MEA1,-3.534034368,0.2227227577,0.4886808287,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IGSF22,2.136814944,0.01214690328,0.04666990965,FALSE,Bos indicus,milk production,TRUE,immune
+CXCL12,-7.876078962,0.009013434874,0.03509598004,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC101904674,7.029506679,0.009576107058,0.03902540576,FALSE,Bos indicus,milk production,TRUE,immune
+LAX1,-2.013960054,0.0004925598947,0.003716509683,FALSE,Bos indicus,milk production,TRUE,immune
+BOLA-DQA5,-5.076085634,0.08011737121,0.2073337323,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+RUBCNL,5.654397931,1.55E-14,5.22E-12,FALSE,Bos indicus,milk production,TRUE,immune
+CFP,-3.968773246,0.1673605791,0.3859392664,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+EGFR,-7.548021875,0.01233126215,0.04527951442,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+KITLG,-2.522005272,0.05963999196,0.5543327126,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+MARCO,2.274474758,0.002599836715,0.01405835208,TRUE,Bos indicus,milk production,FALSE,immune
+LOC529792,-6.289851962,0.0154012757,0.05421695473,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+VSIG10,-3.745475753,0.1965945946,0.4419248241,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TNFSF9,2.798488971,0.0002839959907,0.002361645124,TRUE,Bos indicus,milk production,FALSE,immune
+LAG3,-7.165485855,0.01372595376,0.04938004974,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TBKBP1,-4.878394363,0.09251063132,0.2350475911,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IKBKB,2.401970731,3.56E-07,8.38E-06,TRUE,Bos indicus,milk production,FALSE,immune
+HIF1A,2.803618849,9.01E-06,0.0001299614944,TRUE,Bos indicus,milk production,FALSE,immune
+S100A9,2.007547,1.41E-05,0.000930036,TRUE,Bos taurus,MAP Infection,FALSE,immune
+DOK3,3.686427916,5.51E-12,6.87E-10,TRUE,Bos indicus,milk production,FALSE,immune
+BOLA-DYB,-26.29921036,2.70E-18,9.85E-17,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+VEGFA,4.337407065,4.87E-13,9.09E-11,TRUE,Bos indicus,milk production,FALSE,immune
+COPS5,-3.427150675,0.2369745197,0.5132848908,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IGLL1,-25.90940829,8.39E-18,2.27E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CD1B5,2.189478086,0.457858806,0.8077003619,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+NLRP1,-4.043654413,0.1677702776,0.3868284665,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+RORA,-2.26758363,4.00E-07,9.22E-06,TRUE,Bos indicus,milk production,FALSE,immune
+IRF9,2.089425798,3.88E-05,0.007662866251,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+LOC112442293,-8.08929895,0.005582706391,0.02318303689,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL1RAP,5.014337172,2.28E-08,7.58E-07,TRUE,Bos indicus,milk production,TRUE,immune
+ETS1,-2.226218526,4.23E-05,0.0004829747244,TRUE,Bos indicus,milk production,FALSE,immune
+PACSIN1,-2.022059177,0.1914526083,0.7742540526,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+CXCL2,5.114461,3.53E-07,5.88E-05,TRUE,Bos taurus,MAP Infection,TRUE,immune
+RNF125,-4.019026621,0.1655007671,0.3824197109,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC788328,-7.187199868,0.01719262759,0.05939338631,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TNFSF11,-2.644561429,0.06635304546,0.1597420552,TRUE,Bos indicus,milk production,FALSE,immune
+OAS2,2.760063804,6.87E-11,2.64E-10,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+ALCAM,2.595380328,8.60E-06,0.0001255674394,FALSE,Bos indicus,milk production,TRUE,immune
+KIR3DL2,-2.932908078,5.22E-05,0.0005684079187,TRUE,Bos indicus,milk production,TRUE,immune
+ZBTB16,2.20513336,0.0001216848734,0.003754715827,TRUE,Bos taurus,MAP Infection,FALSE,immune
+PELI1,3.261207313,7.33E-07,1.53E-05,TRUE,Bos indicus,milk production,FALSE,immune
+LOC132342115,2.280482048,0.001400047623,0.008588530796,FALSE,Bos indicus,milk production,TRUE,immune
+IL17A,-5.10187761,0.00856574177,0.2570590059,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+IL37,4.689484201,0.001890113706,0.01092909844,FALSE,Bos indicus,milk production,TRUE,immune
+ACE2,-2.123319006,0.02362779793,0.3926780214,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+PYCARD,2.036848478,4.67E-05,0.0005205663132,TRUE,Bos indicus,milk production,FALSE,immune
+DRAM1,2.206009592,0.0002149921216,0.02568110752,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+SOCS6,-2.093397095,0.4701663831,0.8192295978,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MIR223,4.525909206,1.32E-08,4.74E-07,TRUE,Bos indicus,milk production,FALSE,immune
+BGN,-3.097690247,3.04E-07,5.26E-05,TRUE,Bos taurus,MAP Infection,FALSE,immune
+SOCS2,2.269431117,0.3784232088,0.7181852313,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+PTGES,2.196672167,0.003683219991,0.1676059975,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+MEFV,-4.145490669,0.1527714381,0.3591068514,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CD300LF,2.423638818,0.007246955788,0.2399628107,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+MMP7,-25.735661,1.38E-17,3.38E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC510185,2.121336,0.4537444605,0.8025595593,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+EDN1,3.166254,0.000762937,0.03970296,TRUE,Bos taurus,MAP Infection,FALSE,immune
+CCL28,-2.160231542,0.3956974904,0.7390835238,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL17RC,-3.253986462,0.2619398013,0.5531755015,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+FCGR3A,3.831068427,1.50E-11,1.52E-09,FALSE,Bos indicus,milk production,TRUE,immune
+NRIP1,2.611251728,0.0005380568266,0.003978769149,TRUE,Bos indicus,milk production,FALSE,immune
+F2RL1,-2.052995232,0.0003076943465,0.002516956152,TRUE,Bos indicus,milk production,FALSE,immune
+KCNJ8,-26.65138982,9.54E-19,5.26E-17,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL32,-7.720415055,0.00790166392,0.03135270851,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SNAP23,-2.214447964,0.4447339139,0.7927564769,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TRIM13,-3.78851653,0.1911370361,0.4315910845,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IFNG,-3.074105313,2.57E-05,0.0003136971582,TRUE,Bos indicus,milk production,FALSE,immune
+FLT4,2.126830645,0.1467379752,0.2785145395,TRUE,Bos indicus,milk production,FALSE,immune
+TIGD4,-2.349380797,0.08101717271,0.6176436413,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+IL11,-6.390274371,0.03417019563,0.1029145505,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL1R2,4.792329249,2.70E-13,5.27E-11,TRUE,Bos indicus,milk production,TRUE,immune
+HSPA1A,-3.591091796,0.2153083404,0.4755998653,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+C4A,-4.527696285,0.118750574,0.2915183104,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+DEFB1,2.914450685,9.58E-06,0.0001371731977,TRUE,Bos indicus,milk production,FALSE,immune
+NLRP6,-5.693814495,0.05937966252,0.161368707,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL1RN,4.809409339,8.31E-13,1.41E-10,FALSE,Bos indicus,milk production,TRUE,immune
+C6,-2.597730779,0.02677675243,0.08338003665,TRUE,Bos indicus,milk production,FALSE,immune
+EHMT2,-3.300172444,0.2547369817,0.5410253482,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+PTX3,6.565070608,5.43E-16,3.54E-13,TRUE,Bos indicus,milk production,FALSE,immune
+IL13,-11.37825326,0.0001426097097,0.0008390343988,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC112441494,2.163918486,0.01886185127,0.3604918929,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+IFI6,2.394227694,3.00E-05,0.006452360942,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+SOCS3,2.428119,2.77E-06,0.000351556,TRUE,Bos taurus,MAP Infection,TRUE,immune
+SIRPA,3.318789651,1.17E-12,1.82E-10,TRUE,Bos indicus,milk production,FALSE,immune
+RGS2,3.575431194,3.04E-09,1.36E-07,TRUE,Bos indicus,milk production,FALSE,immune
+TICAM2,-2.892473674,0.3182017015,0.6371179278,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CASP4,3.880478969,1.13E-11,1.22E-09,TRUE,Bos indicus,milk production,FALSE,immune
+ZC3H12A,3.253132,4.51E-10,1.66E-07,TRUE,Bos taurus,MAP Infection,FALSE,immune
+RSAD2,3.108173892,1.95E-11,8.34E-11,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+IL31RA,-6.194884598,0.03315562341,0.1004052369,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC104973965,-23.48350293,6.78E-15,5.24E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+NFAT5,2.491421527,0.001933005027,0.01112034492,TRUE,Bos indicus,milk production,FALSE,immune
+IFITM2,2.042715837,0.0006192588224,0.004477541331,TRUE,Bos indicus,milk production,FALSE,immune
+LOC112441507,3.730697969,1.00E-11,2.88E-08,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+CCL5,-6.141042945,0.03432330487,0.1032981517,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCR9,-4.094615732,0.1539799875,0.3614712301,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCR8,-3.265235201,0.2598575951,0.5504440281,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LST1,2.801862156,3.06E-06,5.17E-05,TRUE,Bos indicus,milk production,TRUE,immune
+LOC527384,-25.51130648,2.63E-17,5.58E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL26,3.015328104,0.0005864575382,0.01056921041,FALSE,Bos taurus,MAP Infection,TRUE,immune
+CCR5,2.122079251,0.0003033713416,0.002491076332,FALSE,Bos indicus,milk production,TRUE,immune
+C1S,-6.700340155,0.01385497728,0.04974873634,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SDC4,2.438549773,7.34E-10,4.17E-08,TRUE,Bos indicus,milk production,FALSE,immune
+MIR21,-22.79366564,3.45E-14,2.38E-13,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IGSF6,5.796699624,3.05E-12,4.15E-10,FALSE,Bos indicus,milk production,TRUE,immune
+LOC522128,4.7372215,0.0006179046716,0.004469304572,FALSE,Bos indicus,milk production,TRUE,immune
+IL20,3.474901498,0.01267680499,0.04818037891,FALSE,Bos indicus,milk production,TRUE,immune
+FCN1,-3.228583527,3.14E-06,0.0002994480832,TRUE,Bos taurus,MAP Infection,FALSE,immune
+PCBP1,-3.266910283,0.2595408251,0.5498455971,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TNK1,-3.145996853,0.2780823197,0.5776137221,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC532174,-23.50756836,6.37E-15,4.97E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC100139916,-2.999271014,1.16E-06,2.25E-05,FALSE,Bos indicus,milk production,TRUE,immune
+LOC619159,4.194200979,7.19E-14,1.80E-11,FALSE,Bos indicus,milk production,TRUE,immune
+F2R,-2.125849524,2.53E-05,0.000309506967,TRUE,Bos indicus,milk production,FALSE,immune
+WNT9B,-25.20109927,6.32E-17,1.08E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC132343197,-3.738864935,0.006344783044,0.02831631211,FALSE,Bos indicus,milk production,TRUE,immune
+NLRP2,4.890115065,3.13E-10,2.00E-08,TRUE,Bos indicus,milk production,FALSE,immune
+CCL5,2.196973034,0.007860789813,0.2487802189,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+SPAG4,-8.576520856,0.00336838666,0.01495094189,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TRIM15,2.120087538,0.0005790810296,0.01047101902,TRUE,Bos taurus,MAP Infection,FALSE,immune
+IKBKE,-2.079173718,0.4731294493,0.8219209504,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+GPR33,-10.51850811,0.0003576603975,0.001995290018,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CASP7,-2.843934292,0.3265408933,0.6496010581,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SH2D1A,-2.023852808,0.0009456928166,0.006270284769,TRUE,Bos indicus,milk production,FALSE,immune
+MAP3K14,-2.225143455,0.4426081394,0.7907235793,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IFIT5,2.500379415,1.59E-07,4.15E-06,TRUE,Bos indicus,milk production,FALSE,immune
+TIFA,2.024293467,0.01041429472,0.277038154,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+PGBD1,-6.952558744,0.006255605274,0.02558024577,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC112442324,3.354481972,1.04E-06,2.06E-05,FALSE,Bos indicus,milk production,TRUE,immune
+CFB,2.084665,0.000834225,0.04214541,TRUE,Bos taurus,MAP Infection,FALSE,immune
+LOC112442414,2.344011991,0.0135960111,0.3151819231,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+PGLYRP4,6.39101075,3.29E-11,2.93E-09,TRUE,Bos indicus,milk production,FALSE,immune
+TRIL,-6.539333344,0.03018698667,0.09338880802,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MAGED4B,-2.330535301,0.001114236193,0.007138885377,FALSE,Bos indicus,milk production,TRUE,immune
+AVP,2.065565339,0.007740499264,0.03318084753,TRUE,Bos indicus,milk production,FALSE,immune
+IGSF22,-25.19475747,6.44E-17,1.09E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCR10,-5.638690186,0.05235232703,0.1460089392,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MMP12,-2.801735978,0.01570980071,0.3360998533,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+FCN3,-2.24670885,0.1589628381,0.370728502,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+EDN1,4.447289297,1.41E-11,1.46E-09,TRUE,Bos indicus,milk production,FALSE,immune
+LY6H,2.237581237,0.01764790575,0.06152430996,FALSE,Bos indicus,milk production,TRUE,immune
+IL3RA,2.670970507,0.0005071928521,0.04725618012,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+NLRP12,7.588382556,8.46E-14,1.93E-11,TRUE,Bos indicus,milk production,FALSE,immune
+LOC132342884,-2.389315993,0.001642272161,0.009788471473,FALSE,Bos indicus,milk production,TRUE,immune
+ZFPM1,-4.357793572,0.1328815047,0.3194649715,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CYBA,2.158180424,9.70E-07,1.95E-05,TRUE,Bos indicus,milk production,FALSE,immune
+CCR3,-7.515675487,0.007514404805,0.02998662285,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IFI27,2.684561487,7.48E-08,4.59E-05,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+HMOX1,-6.926018251,0.01717512531,0.05938122287,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MX1,2.743295942,1.33E-07,7.10E-05,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+LOC112441504,-3.892876082,0.005425532994,0.2051089957,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+XCL2,-4.290416677,1.88E-08,6.43E-07,FALSE,Bos indicus,milk production,TRUE,immune
+AXL,2.053143734,4.95E-06,7.88E-05,TRUE,Bos indicus,milk production,FALSE,immune
+TXNIP,2.145260526,1.67E-07,4.36E-06,TRUE,Bos indicus,milk production,FALSE,immune
+CCL5,2.032913,0.00032081,0.01108107,TRUE,Bos taurus,MAP Infection,TRUE,immune
+SPP1,-5.71234043,4.09E-12,1.67E-08,TRUE,Bos taurus,MAP Infection,FALSE,immune
+LOC112445612,-2.653559496,0.0006572592037,0.004680521982,FALSE,Bos indicus,milk production,TRUE,immune
+TNFAIP3,3.549423,7.43E-10,2.66E-07,TRUE,Bos taurus,MAP Infection,FALSE,immune
+LRIG1,-2.176659461,4.82E-05,0.0005337702221,FALSE,Bos indicus,milk production,TRUE,immune
+IL1RAPL2,-2.732444395,0.01653955293,0.0586630471,FALSE,Bos indicus,milk production,TRUE,immune
+LSP1,-2.642313286,0.3618454443,0.6971924717,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MID1,-9.313172069,0.001451250924,0.007171360016,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LY6G5C,-10.66378829,0.000351311987,0.001962602642,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC100336589,3.248363945,0.0002544488096,0.02808445633,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+DRAM1,2.768079034,3.14E-09,1.39E-07,FALSE,Bos indicus,milk production,TRUE,immune
+LOC618416,2.675039347,3.00E-07,7.28E-06,FALSE,Bos indicus,milk production,TRUE,immune
+ARG1,-9.776985183,0.001037014143,0.005307422513,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CLEC4D,2.538549889,3.22E-05,0.0003809157401,TRUE,Bos indicus,milk production,FALSE,immune
+CCL8,4.673864842,5.31E-07,0.0002175238912,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+TMIGD1,-26.10266668,4.79E-18,1.56E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CXCR1,-27.6415429,4.78E-20,9.13E-18,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCL8,4.492593971,4.68E-18,1.10E-16,FALSE,Bos taurus,BRSV Infection,TRUE,immune
+CFB,-2.241192755,0.4392966581,0.7866463642,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CCL24,-23.31482212,1.06E-14,7.84E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL19,3.380430762,0.001979314765,0.0113301798,TRUE,Bos indicus,milk production,TRUE,immune
+LOC529792,2.782413005,1.93E-10,1.32E-08,FALSE,Bos indicus,milk production,TRUE,immune
+PDCD1,-2.333084,0.004649243,0.0803355,TRUE,Bos taurus,MAP Infection,FALSE,immune
+CD4,6.296225131,0.03017469234,0.09338880802,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+BCL2A1,2.213287,6.46E-08,1.23E-05,TRUE,Bos taurus,MAP Infection,FALSE,immune
+LOC132343837,-3.727034294,0.1965522963,0.4418916313,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+ELANE,4.184412746,8.98E-10,4.92E-08,TRUE,Bos indicus,milk production,FALSE,immune
+LOC789205,-2.066435082,0.0219086079,0.07185501759,FALSE,Bos indicus,milk production,TRUE,immune
+CD3D,-11.66029777,0.0001098501605,0.000657484438,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC101906009,-3.421207618,0.2379359622,0.5148115657,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+PLAUR,3.428218742,2.64E-08,8.68E-07,TRUE,Bos indicus,milk production,FALSE,immune
+ELP2,-2.850547758,0.3252820823,0.6480607523,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TPSB2,-25.17941708,6.72E-17,1.12E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SOCS3,4.431635636,2.15E-11,2.03E-09,TRUE,Bos indicus,milk production,TRUE,immune
+GJA1,-2.45407707,1.64E-05,0.0009102660142,TRUE,Bos taurus,MAP Infection,FALSE,immune
+CXCL11,-24.45622854,4.99E-16,5.12E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC112441494,3.194721378,1.01E-06,2.02E-05,FALSE,Bos indicus,milk production,TRUE,immune
+CARD9,2.071823281,9.25E-07,1.86E-05,TRUE,Bos indicus,milk production,FALSE,immune
+SELE,-24.06016906,1.46E-15,1.31E-14,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CFP,2.217890577,1.01E-07,2.80E-06,TRUE,Bos indicus,milk production,FALSE,immune
+PTK2B,2.061978104,3.00E-05,0.0003592964905,TRUE,Bos indicus,milk production,FALSE,immune
+MAP3K8,2.104174,6.82E-11,3.50E-08,TRUE,Bos taurus,MAP Infection,FALSE,immune
+TNFRSF9,-3.043038072,8.30E-06,0.0001215793595,TRUE,Bos indicus,milk production,FALSE,immune
+CCR6,2.574427318,4.80E-05,0.0005324747388,TRUE,Bos indicus,milk production,TRUE,immune
+NLRP3,4.869197551,3.21E-11,2.88E-09,TRUE,Bos indicus,milk production,FALSE,immune
+JAK2,3.079612948,2.43E-06,4.20E-05,TRUE,Bos indicus,milk production,FALSE,immune
+SREBF1,-2.170413054,0.4538473429,0.8025595593,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IRF7,2.012538742,0.0007285489458,0.06083383697,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+RAC1,-2.02202782,0.485279211,0.8331976183,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IFIT3,3.401360849,5.38E-08,1.60E-06,TRUE,Bos indicus,milk production,FALSE,immune
+IL1RAPL2,2.692396633,0.00544032926,0.2052173325,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+APOH,-23.40489747,8.34E-15,6.32E-14,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NOD2,2.444556695,1.25E-06,2.41E-05,TRUE,Bos indicus,milk production,FALSE,immune
+SPECC1,-2.508320366,0.3867634358,0.7285005451,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC510520,2.502139813,1.20E-05,0.0001668643074,FALSE,Bos indicus,milk production,TRUE,immune
+BST1,-7.390352881,0.007387401611,0.02952385355,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+PTPN2,-3.039855749,0.2941172247,0.601961716,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+GRO1,5.878490315,1.10E-13,2.40E-11,FALSE,Bos indicus,milk production,TRUE,immune
+IL2RG,-2.254315238,0.4365810194,0.7831815537,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC510520,-5.63968174,0.05177529873,0.1449491618,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SPHK1,-4.647974513,0.1092137718,0.2710920257,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NUMBL,-2.180290261,0.4538095799,0.8025595593,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+ELAPOR2,-2.688725306,0.03073750721,0.4330187236,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+TRIM23,-2.083380346,0.4722989708,0.8210433033,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SPHK1,2.190138539,3.00E-10,1.94E-08,TRUE,Bos indicus,milk production,FALSE,immune
+TNIP3,3.064090843,4.89E-05,0.0005397364248,TRUE,Bos indicus,milk production,FALSE,immune
+BCL2,-2.1265153,0.4630540154,0.8122930837,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC112441479,-7.176577473,1.61E-07,7.89E-05,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+HP,3.245301664,1.42E-06,2.66E-05,TRUE,Bos indicus,milk production,FALSE,immune
+LOC100296695,-4.461644819,0.1279596479,0.3096731527,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+NR4A3,-5.001027737,0.0845813289,0.2171353693,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TIGD7,2.502943952,4.21E-05,0.0004807397552,FALSE,Bos indicus,milk production,TRUE,immune
+TIGIT,2.406112861,0.08853401606,0.2260532863,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LY86,-3.17316088,0.2736761373,0.5711966194,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CD40LG,-2.17084978,0.002177164098,0.01221542541,FALSE,Bos indicus,milk production,TRUE,immune
+LOC112446749,-3.857894788,0.0007013482652,0.004952767949,FALSE,Bos indicus,milk production,TRUE,immune
+IL10,3.49755103,6.67E-09,2.63E-07,TRUE,Bos indicus,milk production,TRUE,immune
+PTAFR,4.285226421,1.11E-11,1.19E-09,TRUE,Bos indicus,milk production,FALSE,immune
+XK,-2.662482294,2.28E-05,0.000283575842,FALSE,Bos indicus,milk production,TRUE,immune
+TINAG,-22.33408231,1.30E-13,8.52E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MAP3K8,3.374558457,2.25E-07,5.68E-06,TRUE,Bos indicus,milk production,FALSE,immune
+IFI6,2.956635184,7.13E-20,2.86E-18,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+LOC112441460,-5.019221095,3.32E-07,7.93E-06,FALSE,Bos indicus,milk production,TRUE,immune
+LRIG1,-8.496186591,0.003543292414,0.0156192923,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SPI1,3.163360396,2.00E-09,9.70E-08,TRUE,Bos indicus,milk production,FALSE,immune
+CXCL9,3.026225838,8.09E-05,0.03302003032,TRUE,Bos taurus,MAP Infection,TRUE,immune
+PLXNA4,2.623267367,0.004381855693,0.03863051566,TRUE,Bos taurus,MAP Infection,FALSE,immune
+BIRC5,-2.475691093,0.3929058109,0.7356670865,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CCL3,2.343837488,9.79E-05,0.0009619580918,FALSE,Bos indicus,milk production,TRUE,immune
+CARD9,-3.037117396,0.2947175551,0.6028057549,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+AVP,-25.39839805,3.62E-17,7.17E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CXCR5,-2.088083935,0.001005657619,0.006576560123,FALSE,Bos indicus,milk production,TRUE,immune
+TP73,-2.316152365,0.424159037,0.7707180509,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+PGLYRP2,-3.663431171,0.1972035805,0.4430180163,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+HERC5,2.076313795,0.0001140591066,0.001094692337,TRUE,Bos indicus,milk production,FALSE,immune
+LY6G5B,-2.713591485,0.3494575407,0.6815887141,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCRL2,5.268790924,4.14E-13,7.88E-11,FALSE,Bos indicus,milk production,TRUE,immune
+IL1B,5.475627602,1.59E-14,5.25E-12,TRUE,Bos indicus,milk production,TRUE,immune
+IFIH1,2.140187674,5.95E-05,0.0006347887916,TRUE,Bos indicus,milk production,FALSE,immune
+CD27,-2.145938319,0.0006963617268,0.004920788276,TRUE,Bos indicus,milk production,FALSE,immune
+CT47C1,4.631737246,2.29E-09,1.09E-07,FALSE,Bos indicus,milk production,TRUE,immune
+TLR4,3.613903138,8.65E-10,4.77E-08,TRUE,Bos indicus,milk production,FALSE,immune
+ISG20,2.895336312,1.82E-07,8.71E-05,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+MMP9,3.440569775,9.44E-13,1.56E-10,TRUE,Bos indicus,milk production,FALSE,immune
+ZBP1,2.957103584,9.85E-07,0.000360321765,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+LOC101907857,2.558807644,6.03E-08,1.78E-06,FALSE,Bos indicus,milk production,TRUE,immune
+BIRC3,3.934578643,9.68E-07,1.94E-05,TRUE,Bos indicus,milk production,FALSE,immune
+SLAMF1,-2.534026226,0.02418187858,0.07795122538,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+FOXO3,2.011936507,0.0005357749756,0.00994173793,TRUE,Bos taurus,MAP Infection,FALSE,immune
+ATG5,-2.530180466,0.3825529889,0.7234759376,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MEFV,4.987261,8.75E-09,2.03E-06,TRUE,Bos taurus,MAP Infection,TRUE,immune
+TRAT1,-2.131707213,0.0002131239371,0.001854178253,TRUE,Bos indicus,milk production,FALSE,immune
+LOC100336589,3.372773263,3.25E-07,7.78E-06,FALSE,Bos indicus,milk production,TRUE,immune
+IL2RB,-2.471924444,0.0001587215236,0.001452398514,TRUE,Bos indicus,milk production,TRUE,immune
+LOC112444532,-24.78759794,2.01E-16,2.54E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+UNC5CL,2.076512425,0.001792323909,0.02208815517,TRUE,Bos taurus,MAP Infection,FALSE,immune
+LOC100138951,3.662783052,0.02193185837,0.3863705061,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+FCGR2A,3.366239363,0.08494393219,0.2179965001,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LTB4R,4.212030238,3.40E-15,1.56E-12,TRUE,Bos indicus,milk production,FALSE,immune
+LOC132342650,-3.485062959,0.0422246448,0.1154408896,FALSE,Bos indicus,milk production,TRUE,immune
+LOC100298356,4.52115858,9.36E-15,8.05E-11,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+IL36B,2.551201559,0.06699645484,0.1607712919,FALSE,Bos indicus,milk production,TRUE,immune
+CX3CL1,-24.66018371,2.85E-16,3.29E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MILR1,-5.476491223,0.05878942754,0.1602531101,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+NFE2L2,2.573765136,8.94E-06,0.0001290863322,TRUE,Bos indicus,milk production,FALSE,immune
+LOC112445498,2.232489771,1.55E-06,2.87E-05,FALSE,Bos indicus,milk production,TRUE,immune
+SERPINE1,5.284732044,2.07E-18,5.96E-15,TRUE,Bos indicus,milk production,FALSE,immune
+PTGES,-24.65455904,2.57E-16,3.03E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+ULBP17,-2.2949704,0.1384418189,0.7236974862,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+TREML2,3.55136486,4.18E-09,1.75E-07,TRUE,Bos indicus,milk production,TRUE,immune
+OLFM4,4.945756699,2.67E-10,1.74E-08,TRUE,Bos indicus,milk production,FALSE,immune
+CCL26,2.480493769,0.003769028883,0.1704360806,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+MX2,3.370268057,9.09E-08,5.39E-05,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+CLCF1,-2.407092207,0.406451274,0.750898728,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SCARF1,3.207826703,3.93E-10,2.41E-08,TRUE,Bos indicus,milk production,FALSE,immune
+IL9,5.95039339,9.34E-10,5.09E-08,TRUE,Bos indicus,milk production,TRUE,immune
+MUC1,2.979832323,1.22E-06,0.0004265207299,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IL1B,5.63864,6.52E-12,5.13E-09,TRUE,Bos taurus,MAP Infection,TRUE,immune
+NFKBIA,3.845765041,9.15E-12,1.03E-09,TRUE,Bos indicus,milk production,FALSE,immune
+PLK1,-2.177429499,0.01126150128,0.2865571339,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+SLAMF8,2.923070793,6.73E-07,1.41E-05,TRUE,Bos indicus,milk production,FALSE,immune
+DUOX2,3.428920699,7.47E-05,0.01271457286,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+CXCL5,3.100663662,0.2919790834,0.5991047767,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IRF5,2.539023017,2.60E-09,1.21E-07,TRUE,Bos indicus,milk production,FALSE,immune
+CD3E,-2.606850522,0.0001097188322,0.001059185977,FALSE,Bos indicus,milk production,TRUE,immune
+LOC790255,2.00791283,0.0002102740127,0.00183682043,FALSE,Bos indicus,milk production,TRUE,immune
+OAS2,3.221897105,5.97E-09,5.40E-06,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+NFIL3,2.963177598,2.88E-06,4.89E-05,TRUE,Bos indicus,milk production,TRUE,immune
+P2RY14,5.451207171,3.14E-10,2.00E-08,TRUE,Bos indicus,milk production,FALSE,immune
+IRF1,2.183673849,3.95E-06,6.49E-05,TRUE,Bos indicus,milk production,FALSE,immune
+PSMA7,-2.278751168,0.4316634651,0.7787117697,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC132343398,-7.023133566,0.01540369555,0.05421695473,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+GJA1,3.371781975,0.2491348425,0.5320136007,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CXCL2,4.738575,9.41E-09,2.10E-06,TRUE,Bos taurus,MAP Infection,TRUE,immune
+CXCL13,-25.72842565,1.41E-17,3.42E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC112443150,-4.134722031,0.03518936544,0.1010667811,FALSE,Bos indicus,milk production,TRUE,immune
+TRAF1,2.213529,4.99E-09,1.23E-06,TRUE,Bos taurus,MAP Infection,FALSE,immune
+ISLR2,3.286901845,0.01529908982,0.05546855765,FALSE,Bos indicus,milk production,TRUE,immune
+PELI3,-7.664683545,0.008685793717,0.03411820586,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MIR187,-22.41313487,1.07E-13,7.03E-13,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+BOLA-DQA2,-3.802907706,0.1894953208,0.4284868835,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCL26,2.321305939,0.0002935611339,0.006679745801,FALSE,Bos taurus,MAP Infection,TRUE,immune
+ATG16L2,2.31165859,0.0001293749196,0.001225068988,FALSE,Bos indicus,milk production,TRUE,immune
+TRIM37,-2.071484931,0.4747102757,0.8232622314,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NOD2,-2.755925031,0.341572055,0.6710197654,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CCL20,6.514827388,3.68E-11,3.22E-09,FALSE,Bos indicus,milk production,TRUE,immune
+CXCL2,6.239042,4.40E-11,2.74E-08,TRUE,Bos taurus,MAP Infection,TRUE,immune
+LOC112441507,2.772399158,3.80E-10,2.35E-08,FALSE,Bos indicus,milk production,TRUE,immune
+NFATC2,-2.106332379,8.72E-05,0.000874065296,TRUE,Bos indicus,milk production,FALSE,immune
+IL1A,7.064453652,2.00E-18,5.96E-15,TRUE,Bos indicus,milk production,TRUE,immune
+DHX58,2.106320406,0.001037616584,0.07530819776,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+LECT2,-9.061809246,0.001685808924,0.008162061309,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SYK,2.331619696,4.48E-07,1.01E-05,TRUE,Bos indicus,milk production,FALSE,immune
+LOC112445051,-2.584892606,0.0003291812487,0.002669349379,FALSE,Bos indicus,milk production,TRUE,immune
+CCL17,-3.221722427,0.2665853064,0.5602783807,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LY6G6F,-7.091480195,0.01871425911,0.06366338677,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC112445159,-4.938015892,4.20E-05,0.007974985395,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+CCL8,3.510336231,3.81E-07,8.84E-06,FALSE,Bos indicus,milk production,TRUE,immune
+INSIG1,2.431454374,0.4014019003,0.7458324265,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MERTK,-5.063779054,0.07054424451,0.1864068364,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LCN2,-5.874027543,0.04318061885,0.1245818682,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+BMX,2.332008934,0.004368340398,0.02108045515,TRUE,Bos indicus,milk production,FALSE,immune
+LOC100139885,-2.315652415,0.05137661878,0.5308873183,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+HP,-6.590519585,0.02895746505,0.09017147995,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL10,2.009643,1.50E-07,2.68E-05,TRUE,Bos taurus,MAP Infection,TRUE,immune
+NLRP3,2.730713,2.40E-10,9.46E-08,TRUE,Bos taurus,MAP Infection,FALSE,immune
+PLTP,-4.650301582,0.109106742,0.2710506258,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+C5AR1,-8.272130326,0.003491099607,0.01541462137,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC101906009,3.225230188,2.06E-05,0.0002603684214,FALSE,Bos indicus,milk production,TRUE,immune
+TMIGD2,2.47884304,0.3943310997,0.7375567785,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MIR122,-24.84113544,1.73E-16,2.27E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MST1R,-6.870090795,0.02275085951,0.07429095205,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+WNT2B,-3.499326819,0.06100312975,0.165193223,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TYROBP,2.426604955,3.51E-06,5.86E-05,FALSE,Bos indicus,milk production,TRUE,immune
+SPAG7,-5.618346078,0.05256669969,0.1464494931,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CXCL10,2.801834454,9.34E-05,0.01503836459,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+LPCAT2,4.176076408,1.28E-08,4.59E-07,TRUE,Bos indicus,milk production,FALSE,immune
+HERC5,2.608937827,2.59E-05,0.00562869857,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IL6R,2.904187595,5.74E-07,1.24E-05,FALSE,Bos indicus,milk production,TRUE,immune
+IL12B,6.254788742,5.42E-14,1.47E-11,TRUE,Bos indicus,milk production,TRUE,immune
+ELAPOR2,-3.560430417,0.0001381711271,0.001290972524,FALSE,Bos indicus,milk production,TRUE,immune
+UBE2W,2.278032955,0.0004648586754,0.003549874938,TRUE,Bos indicus,milk production,FALSE,immune
+ATG9B,-4.253687878,0.09855731243,0.2484833278,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MIR21,2.734200158,0.109493833,0.6782845217,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+LOC100138951,4.968554559,4.74E-16,3.18E-13,FALSE,Bos indicus,milk production,TRUE,immune
+FCN1,3.081997284,3.32E-10,2.09E-08,TRUE,Bos indicus,milk production,FALSE,immune
+CXCL9,2.007122739,0.001591478137,0.02033782282,TRUE,Bos taurus,MAP Infection,TRUE,immune
+THRB,-6.156380344,0.0413249531,0.1203530207,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TNIP1,2.704663058,1.75E-08,6.04E-07,TRUE,Bos indicus,milk production,FALSE,immune
+LOC783509,-4.73500496,0.008331513755,0.03509266684,FALSE,Bos indicus,milk production,TRUE,immune
+TRIM65,-2.405697765,0.4064972702,0.750898728,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TLR10,2.896733,0.000618335,0.01942657,TRUE,Bos taurus,MAP Infection,FALSE,immune
+CD300LF,4.416434706,6.91E-13,1.22E-10,TRUE,Bos indicus,milk production,FALSE,immune
+CCL22,2.521909069,3.45E-06,5.77E-05,FALSE,Bos indicus,milk production,TRUE,immune
+CT83,-22.30006774,1.42E-13,9.24E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CEBPE,2.558940858,1.69E-06,3.07E-05,TRUE,Bos indicus,milk production,FALSE,immune
+IL12A,2.133290702,0.03139195062,0.09331603636,TRUE,Bos indicus,milk production,TRUE,immune
+IFNGR2,2.120664491,2.22E-06,3.88E-05,TRUE,Bos indicus,milk production,FALSE,immune
+EGR1,-2.640762235,0.3620931625,0.6975030314,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+VSIG8,-2.009613795,0.03496399323,0.4573503023,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+TRIM56,2.057999289,1.08E-05,0.0001520678159,TRUE,Bos indicus,milk production,FALSE,immune
+IL1A,4.906576,2.27E-09,5.95E-07,TRUE,Bos taurus,MAP Infection,TRUE,immune
+PTGS2,5.325218795,9.92E-12,1.09E-09,TRUE,Bos indicus,milk production,FALSE,immune
+IL10RB,2.525755367,4.33E-06,7.02E-05,FALSE,Bos indicus,milk production,TRUE,immune
+LOC508441,-3.662301303,0.2116244589,0.4690102963,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+C5,-26.5987637,1.12E-18,5.65E-17,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+SLAMF1,2.055027,0.01299558,0.1518465,TRUE,Bos taurus,MAP Infection,FALSE,immune
+CD14,-5.818278212,0.03647120565,0.1085412295,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL5,-24.18268458,1.05E-15,9.74E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+RAD23A,-2.398321184,0.4078379664,0.7523907311,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+FCN1,2.95575308,0.0006669362002,0.05651216542,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IFIT2,3.956797769,1.32E-08,1.03E-05,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IL2RA,4.221080316,1.40E-08,4.97E-07,FALSE,Bos indicus,milk production,TRUE,immune
+F11,3.498748771,0.0001431995471,0.001330399942,TRUE,Bos indicus,milk production,FALSE,immune
+USP7,-2.561415673,0.3767201209,0.7158841984,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NOS2,6.177103413,4.97E-20,3.56E-16,TRUE,Bos indicus,milk production,FALSE,immune
+LAIR1,2.714353,2.15E-08,4.39E-06,TRUE,Bos taurus,MAP Infection,TRUE,immune
+LOC618565,-4.26465235,7.21E-07,1.51E-05,FALSE,Bos indicus,milk production,TRUE,immune
+GZMM,-26.50624105,1.47E-18,6.83E-17,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CLEC4E,3.381716279,4.79E-08,1.46E-06,TRUE,Bos indicus,milk production,FALSE,immune
+FLT4,-25.7619891,1.28E-17,3.15E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CFTR,3.30363808,0.000439943243,0.003388509086,TRUE,Bos indicus,milk production,FALSE,immune
+IL18BP,2.443950902,0.0007832848717,0.06249925724,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+PRTN3,3.754024261,4.02E-07,9.24E-06,TRUE,Bos indicus,milk production,FALSE,immune
+LOC618737,2.967962644,3.17E-06,0.000938656289,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+CASP1,2.367455545,0.0001228399498,0.001169564768,TRUE,Bos indicus,milk production,FALSE,immune
+IFITM1,4.124280951,2.46E-07,0.0001142862309,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+ALCAM,2.212046,1.38E-15,3.21E-12,FALSE,Bos taurus,MAP Infection,TRUE,immune
+ABCA1,2.632624587,0.0001472803917,0.001366540732,TRUE,Bos indicus,milk production,FALSE,immune
+THY1,-22.61769083,6.37E-14,4.29E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+BLA-DQB,2.055499338,1.51E-07,3.98E-06,FALSE,Bos indicus,milk production,TRUE,immune
+IRAK2,2.376636715,2.30E-05,0.0002858818646,TRUE,Bos indicus,milk production,TRUE,immune
+NFKBIE,3.123540494,1.27E-10,9.32E-09,TRUE,Bos indicus,milk production,FALSE,immune
+CCL20,5.951456,9.20E-07,0.000132572,FALSE,Bos taurus,MAP Infection,TRUE,immune
+BOLA-DQA2,2.286112908,0.0191079673,0.06515568222,FALSE,Bos indicus,milk production,TRUE,immune
+VEGFC,-7.578130784,0.009867006563,0.03777801892,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC132342658,-2.352378581,0.006798554195,0.02999879488,FALSE,Bos indicus,milk production,TRUE,immune
+LOC788634,-2.990311473,0.3021485398,0.6146446009,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MYD88,-2.281479871,0.4310752983,0.778337822,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+NOX1,-8.446475588,0.002803906103,0.01278485595,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+HDAC11,2.265573166,3.19E-06,5.37E-05,TRUE,Bos indicus,milk production,FALSE,immune
+SIGLEC1,3.736679063,4.78E-22,2.69E-20,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+HOXA9,2.353102134,5.04E-05,0.0005528645295,TRUE,Bos indicus,milk production,FALSE,immune
+MX2,2.432090457,7.24E-05,0.0007448902219,TRUE,Bos indicus,milk production,FALSE,immune
+CREB1,2.775457891,4.27E-06,6.97E-05,TRUE,Bos indicus,milk production,FALSE,immune
+WNT2B,2.455711007,0.001917176562,0.01105992138,TRUE,Bos indicus,milk production,FALSE,immune
+TRIL,-3.005222313,0.04361865811,0.1180951675,FALSE,Bos indicus,milk production,TRUE,immune
+NFKBIE,2.667323,5.43E-11,3.05E-08,TRUE,Bos taurus,MAP Infection,FALSE,immune
+MKNK1,3.417537083,5.38E-10,3.17E-08,TRUE,Bos indicus,milk production,FALSE,immune
+APOA1,-6.954922506,0.008845912798,0.03454425801,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+ATG13,-2.145582626,0.4590884818,0.8082011772,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+RSAD2,3.324972954,4.22E-12,1.81E-08,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IL36B,-2.731386704,0.07814443258,0.6125441632,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+CD14,2.562491502,2.26E-14,7.16E-12,TRUE,Bos indicus,milk production,FALSE,immune
+MIR29A,4.039485905,2.83E-05,0.0003417102012,TRUE,Bos indicus,milk production,FALSE,immune
+ULBP13,2.994732831,1.65E-06,3.02E-05,FALSE,Bos indicus,milk production,TRUE,immune
+LOC107131323,2.122287339,0.0004192956389,0.003253970381,FALSE,Bos indicus,milk production,TRUE,immune
+CXCL11,2.392664562,0.004241257826,0.03788298931,TRUE,Bos taurus,MAP Infection,TRUE,immune
+TREM1,4.116151087,2.36E-13,4.79E-11,TRUE,Bos indicus,milk production,TRUE,immune
+LRRK2,2.681044254,8.91E-06,0.0001287339279,TRUE,Bos indicus,milk production,FALSE,immune
+TRIM45,-2.70925886,0.09970084863,0.2510115483,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TREM2,-3.864524223,9.20E-09,4.54E-06,TRUE,Bos taurus,MAP Infection,TRUE,immune
+PGLYRP4,2.852944565,0.1294104282,0.312430411,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL2,-3.903050368,0.0008209836671,0.005598894961,TRUE,Bos indicus,milk production,TRUE,immune
+TRAF5,-3.427471075,0.237212754,0.513592972,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CXCL2,5.734026278,1.03E-12,1.67E-10,TRUE,Bos indicus,milk production,TRUE,immune
+HDAC11,-9.385573743,0.001269147959,0.006361694009,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL33,-25.95127451,7.43E-18,2.08E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CEBPE,-7.50180594,0.005626609963,0.02333516535,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TRAF1,2.676688617,6.28E-07,1.33E-05,TRUE,Bos indicus,milk production,FALSE,immune
+IFNGR1,2.957537059,1.45E-07,3.86E-06,TRUE,Bos indicus,milk production,FALSE,immune
+LOC617785,-4.302459253,0.1379505851,0.3296399305,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC132343197,-9.115455535,0.002249585844,0.01053262917,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+P2RY14,-2.735071271,0.0005375916503,0.04866902093,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IL19,-2.828276018,0.05110967377,0.5307457102,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+RBPJL,-10.82711431,0.0003290119964,0.00184508824,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC512672,2.400630691,1.23E-05,0.0001702991362,FALSE,Bos indicus,milk production,TRUE,immune
+CD300A,4.566664712,4.56E-11,3.83E-09,TRUE,Bos indicus,milk production,FALSE,immune
+IFI16,2.807159471,0.1090850606,0.2710506258,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+GATA6,-25.68351416,1.61E-17,3.77E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC100335205,-4.706275793,0.03027897342,0.09356517585,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCR1,4.031127331,2.63E-10,1.72E-08,FALSE,Bos indicus,milk production,TRUE,immune
+LY6G6C,-24.04076409,1.05E-15,9.74E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL4I1,-2.961997946,0.3066942833,0.6206585861,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL15RA,-3.483073825,0.2294624944,0.5001864776,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL6,5.459478453,1.50E-07,3.95E-06,TRUE,Bos indicus,milk production,TRUE,immune
+MAP3K12,-2.422267826,0.3999519185,0.7446229327,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TRAFD1,-2.11496864,0.4654942238,0.814047987,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CD8A,-5.249962833,0.05387889346,0.1494824961,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+PLG,-25.32681593,4.44E-17,8.40E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+F11,2.53428,0.000206255,0.008051518,TRUE,Bos taurus,MAP Infection,FALSE,immune
+MR1,3.951251061,2.05E-09,9.95E-08,FALSE,Bos indicus,milk production,TRUE,immune
+ULBP3,2.010055,0.009129176,0.2604902,FALSE,Bos taurus,MAP Infection,TRUE,immune
+CD40,3.843002449,5.75E-12,7.07E-10,FALSE,Bos indicus,milk production,TRUE,immune
+MIR21,5.050039292,4.48E-08,1.37E-06,TRUE,Bos indicus,milk production,FALSE,immune
+CXCL12,-2.792976594,0.003949357793,0.01944195381,TRUE,Bos indicus,milk production,TRUE,immune
+KIR2DL5A,-3.54861676,3.45E-07,8.15E-06,FALSE,Bos indicus,milk production,TRUE,immune
+LOC112446748,-2.572678347,0.004566980988,0.02184283429,FALSE,Bos indicus,milk production,TRUE,immune
+MRGPRX2,-22.55051025,7.56E-14,5.05E-13,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL18,3.093394074,0.0001812936903,0.001617865494,TRUE,Bos indicus,milk production,TRUE,immune
+CXCL9,2.154711224,0.007549560152,0.244557409,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+SPAG17,-5.119470811,0.004203968903,0.01812347593,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+WFIKKN1,-7.121028747,0.01508503199,0.05344696764,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TMIGD1,2.007987708,0.03981292898,0.1104920613,FALSE,Bos indicus,milk production,TRUE,immune
+TPST1,-5.189482933,0.07343813048,0.1926895527,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC100141258,-5.280360366,0.06870892429,0.1818865636,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL18BP,-2.812717406,0.3326389185,0.6581428305,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCL19,2.084839905,0.01887272018,0.0645995355,FALSE,Bos indicus,milk production,TRUE,immune
+CORO2A,2.42970747,0.0001648821376,0.00149686457,TRUE,Bos indicus,milk production,FALSE,immune
+SSNA1,-3.24831616,0.2623881684,0.5538383384,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+PGBD5,-6.714153261,0.02271423126,0.07427942375,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TCIRG1,3.019683344,4.53E-13,8.54E-11,FALSE,Bos indicus,milk production,TRUE,immune
+NFKBIZ,2.541106168,0.0004962688856,0.003739243367,TRUE,Bos indicus,milk production,FALSE,immune
+TLR10,-3.449530208,0.2131709597,0.4719259674,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TIGD4,-9.321603524,0.001502212004,0.007389059966,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LY6L,-7.392700225,0.01425040818,0.05095561328,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+ICA1L,-3.098366008,0.04125763596,0.1202005913,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LST1,-3.885395989,0.1811280009,0.412238289,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+XCL1,-3.691445662,1.95E-05,0.0002496459037,FALSE,Bos indicus,milk production,TRUE,immune
+CCL8,2.48648,3.38E-05,0.003093472,FALSE,Bos taurus,MAP Infection,TRUE,immune
+F2RL3,-25.24227145,5.63E-17,9.94E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NAIP,5.803607137,8.27E-14,1.91E-11,TRUE,Bos indicus,milk production,FALSE,immune
+LOC787904,-24.00417939,1.70E-15,1.50E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+C9,-7.974752621,0.006806878616,0.0275051364,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TNFRSF9,-23.28819227,1.13E-14,8.34E-14,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NFKB1,2.662185871,1.09E-06,2.15E-05,TRUE,Bos indicus,milk production,FALSE,immune
+IL22RA2,-5.42541115,0.06143700875,0.1660320306,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC618565,2.205760364,0.0006603715017,0.01143993695,FALSE,Bos taurus,MAP Infection,TRUE,immune
+CD209,-24.07715826,1.39E-15,1.26E-14,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC615101,-6.179266545,0.04064414215,0.118693319,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MYD88,2.776313044,1.91E-07,4.90E-06,TRUE,Bos indicus,milk production,TRUE,immune
+MID1,-2.562567153,0.001310080102,0.008134155247,TRUE,Bos indicus,milk production,FALSE,immune
+CD247,-2.383971288,0.0001293354367,0.001225068988,FALSE,Bos indicus,milk production,TRUE,immune
+LEP,-24.73139517,2.34E-16,2.86E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CFB,2.510816592,0.000146346773,0.02046594181,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+TRPM2,-2.270301918,4.55E-05,0.0005104369957,TRUE,Bos indicus,milk production,FALSE,immune
+CD3D,-2.118560445,0.001518260179,0.009175441427,FALSE,Bos indicus,milk production,TRUE,immune
+CFB,3.532493,3.89E-08,7.41E-06,TRUE,Bos taurus,MAP Infection,FALSE,immune
+KIR2DS1,-3.150234382,6.62E-06,9.98E-05,FALSE,Bos indicus,milk production,TRUE,immune
+LGALS9,2.249463175,0.0007479678283,0.0618547818,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+MMP12,3.746786819,4.33E-06,7.02E-05,TRUE,Bos indicus,milk production,FALSE,immune
+MIR212,4.579386657,5.51E-07,1.20E-05,TRUE,Bos indicus,milk production,FALSE,immune
+C5AR1,4.094079928,2.04E-10,1.38E-08,TRUE,Bos indicus,milk production,FALSE,immune
+LOC100298356,2.082329465,2.76E-06,4.73E-05,FALSE,Bos indicus,milk production,TRUE,immune
+IL25,-6.726772732,0.02578677374,0.08203720883,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TNFRSF18,2.063982378,2.33E-05,0.0002887404203,TRUE,Bos indicus,milk production,FALSE,immune
+HP,2.376392677,0.003325029773,0.1579940252,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IFITM1,2.273280616,0.0002091195104,0.00182822179,TRUE,Bos indicus,milk production,FALSE,immune
+SIVA1,-2.271472548,0.4332770487,0.7799282801,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NFKBIE,-2.401764291,0.4073244086,0.7517889557,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+MX1,2.027376354,2.90E-12,1.54E-11,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+XIAP,2.430975773,0.001026693069,0.00668969295,TRUE,Bos indicus,milk production,FALSE,immune
+IL17F,4.05026836,2.61E-05,0.0003177772485,TRUE,Bos indicus,milk production,TRUE,immune
+IRF9,2.247642418,1.46E-07,3.86E-06,TRUE,Bos indicus,milk production,FALSE,immune
+SPAG8,-3.526530176,0.2013485556,0.4500270599,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+TRIM9,-2.003813921,0.01971206605,0.06666550006,TRUE,Bos indicus,milk production,FALSE,immune
+NLRP1,2.618298826,5.90E-07,1.27E-05,TRUE,Bos indicus,milk production,FALSE,immune
+SUGT1,-5.067814859,0.08041842598,0.2078447241,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TRPM2,3.547622976,0.01661369384,0.05782905794,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IFITM2,3.512394095,7.59E-07,0.0002967336627,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+IFNG,-12.00581338,6.82E-05,0.0004160935658,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL22,3.284885055,0.0665879974,0.1600211895,TRUE,Bos indicus,milk production,TRUE,immune
+BOLA-DOA,-6.717428361,0.02103009744,0.06983924352,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+PTCRA,-5.149444927,0.08800046489,0.2249309601,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LGALS4,-6.449913305,0.02623608064,0.08328502656,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+NLRP5,-6.319432631,0.03055440016,0.09430733126,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CRLF1,-5.205726213,0.05897633706,0.160680735,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCL4,4.708053,1.06E-14,4.16E-11,FALSE,Bos taurus,MAP Infection,TRUE,immune
+IL1F10,-10.21059699,0.0004417823267,0.002429121735,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL36G,2.275285323,0.008064350039,0.03423445634,FALSE,Bos indicus,milk production,TRUE,immune
+LOC525400,-26.26453761,2.99E-18,1.03E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+DUSP1,4.373880908,1.31E-11,1.37E-09,TRUE,Bos indicus,milk production,FALSE,immune
+SRXN1,2.280621861,0.0001697559272,0.001532724841,TRUE,Bos indicus,milk production,FALSE,immune
+IFIH1,2.109983748,2.00E-05,0.004465432414,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+LOC112442414,5.170340151,3.69E-12,4.86E-10,FALSE,Bos indicus,milk production,TRUE,immune
+CCL24,3.324888911,4.41E-08,1.36E-06,FALSE,Bos indicus,milk production,TRUE,immune
+IL36RN,3.853344947,0.02167779808,0.07128296909,FALSE,Bos indicus,milk production,TRUE,immune
+DOK3,-2.252161027,0.4336498865,0.7799283593,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+IL4,-2.822585607,0.0008620913289,0.005829289039,TRUE,Bos indicus,milk production,TRUE,immune
+SLAMF1,3.082024,0.000324671,0.01946874,TRUE,Bos taurus,MAP Infection,FALSE,immune
+GZMB,2.178965409,8.40E-10,2.57E-09,FALSE,Bos taurus,BRSV Infection,TRUE,immune
+CD27,-24.73106337,2.35E-16,2.86E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+GZMM,-2.810696208,0.0004752759249,0.003605084486,TRUE,Bos indicus,milk production,FALSE,immune
+CCL4,2.046729,0.000374185,0.0125575,FALSE,Bos taurus,MAP Infection,TRUE,immune
+MEFV,5.495684824,1.48E-13,3.16E-11,TRUE,Bos indicus,milk production,TRUE,immune
+CD53,2.014418907,0.001078237959,0.00695594581,TRUE,Bos indicus,milk production,FALSE,immune
+IL36A,3.971574897,1.74E-08,6.03E-07,FALSE,Bos indicus,milk production,TRUE,immune
+IL4R,2.131641073,3.66E-05,0.0004246654259,TRUE,Bos indicus,milk production,TRUE,immune
+NRIP1,2.108925369,0.000124120678,0.003812927637,TRUE,Bos taurus,MAP Infection,FALSE,immune
+TIGD3,-7.684988111,0.008071961182,0.03196520527,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC101904903,-4.130514698,2.57E-05,0.0003142129703,FALSE,Bos indicus,milk production,TRUE,immune
+EPG5,-2.183131801,0.4512106496,0.7999058051,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+SIAH1,-3.823074063,0.1870929669,0.4241302427,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC614781,-3.939901548,5.87E-08,1.73E-06,FALSE,Bos indicus,milk production,TRUE,immune
+MIR23A,4.008515441,1.21E-09,6.34E-08,TRUE,Bos indicus,milk production,FALSE,immune
+LOC526966,5.551804057,4.42E-06,7.14E-05,FALSE,Bos indicus,milk production,TRUE,immune
+LIF,-6.054658592,0.02704627718,0.08546815295,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+LOC100335205,-4.030761612,8.36E-08,2.38E-06,FALSE,Bos indicus,milk production,TRUE,immune
+XCR1,4.387902752,3.76E-09,1.61E-07,FALSE,Bos indicus,milk production,TRUE,immune
+LOC786796,-3.879841882,2.70E-05,0.0003270502227,FALSE,Bos indicus,milk production,TRUE,immune
+CXCL17,3.881100506,0.01590146774,0.3393562614,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+TIE1,-3.456366479,0.0002130579839,0.001854178253,FALSE,Bos indicus,milk production,TRUE,immune
+IL9R,-2.706093408,0.3422194794,0.671962643,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+MIR146A,7.012905376,7.51E-10,4.25E-08,TRUE,Bos indicus,milk production,FALSE,immune
+CXCL10,2.715409022,9.18E-32,1.29E-29,TRUE,Bos taurus,BRSV Infection,TRUE,immune
+PLTP,3.007045,1.53E-15,3.21E-12,TRUE,Bos taurus,MAP Infection,FALSE,immune
+IGSF10,-2.107133242,0.001109319991,0.01618039112,FALSE,Bos taurus,MAP Infection,TRUE,immune
+NCR1,5.323898796,2.25E-11,2.11E-09,FALSE,Bos indicus,milk production,TRUE,immune
+LOC782159,-2.859848044,0.1080445481,0.2241306394,FALSE,Bos indicus,milk production,TRUE,immune
+IL1B,2.654617027,0.3596848893,0.6946146641,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+ISLR2,-24.8488569,1.69E-16,2.25E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CCL26,-2.332186542,0.006517278538,0.02898778172,FALSE,Bos indicus,milk production,TRUE,immune
+LAIR1,3.734299413,1.91E-07,4.90E-06,TRUE,Bos indicus,milk production,TRUE,immune
+CXCL11,2.146133269,0.005800251178,0.2134754496,TRUE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+LOC107131414,-2.014790739,0.2884458567,0.4462821668,FALSE,Bos indicus,milk production,TRUE,immune
+LOC618806,-7.149221538,6.46E-06,0.001710481246,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+MX2,2.063271362,1.47E-09,4.26E-09,TRUE,Bos taurus,BRSV Infection,FALSE,immune
+TNFRSF13B,-6.046505347,0.04518612973,0.1293911476,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC112445044,-2.170720479,0.002251888134,0.01254623389,FALSE,Bos indicus,milk production,TRUE,immune
+TRIM47,-9.461788446,0.0008712798188,0.004515350692,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+LOC100847119,-3.818991049,0.0009325832335,0.006202213522,FALSE,Bos indicus,milk production,TRUE,immune
+RANBP9,-2.4525605,0.3973494704,0.7412202465,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+HP,3.059627,0.00108359,0.02863635,TRUE,Bos taurus,MAP Infection,FALSE,immune
+THBS1,2.932550968,0.3117700572,0.6280795053,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+PTX3,2.771812073,0.001557589001,0.020028603,TRUE,Bos taurus,MAP Infection,FALSE,immune
+NOTCH1,2.811803472,3.99E-06,6.56E-05,TRUE,Bos indicus,milk production,FALSE,immune
+ACKR3,-3.347911054,2.69E-07,6.63E-06,FALSE,Bos indicus,milk production,TRUE,immune
+TRIM67,-24.32799972,7.08E-16,6.85E-15,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+BDKRB2,-25.46892925,2.97E-17,6.13E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+F11,-24.05137743,1.50E-15,1.34E-14,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+C4BPB,4.387614654,2.12E-06,0.0002305765475,TRUE,Bos taurus,MAP Infection,FALSE,immune
+LOC112443721,-26.59692042,1.12E-18,5.65E-17,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+S100A9,3.757779795,1.21E-09,6.33E-08,TRUE,Bos indicus,milk production,FALSE,immune
+CD1B5,2.803957384,2.13E-05,0.0002669611308,FALSE,Bos indicus,milk production,TRUE,immune
+LOC112445143,-23.32330034,1.03E-14,7.69E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+EDIL3,7.170614534,0.0152988175,0.05400176399,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+TNF,-2.037170905,0.4820802892,0.8304592295,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CCR5,2.409343542,0.002203018239,0.1199072851,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+IDO1,2.203888223,1.52E-06,0.001238308461,TRUE,Bos taurus,MAP Infection,FALSE,immune
+SFTPD,-2.777934586,0.07589356578,0.1750744469,TRUE,Bos indicus,milk production,FALSE,immune
+TANK,3.829803553,2.78E-06,4.74E-05,TRUE,Bos indicus,milk production,FALSE,immune
+IRF1,3.061304,1.12E-06,0.000155606,TRUE,Bos taurus,MAP Infection,FALSE,immune
+SARM1,-2.485965169,0.08611269444,0.6319216967,TRUE,Bos taurus:Bos indicus,BRSV Infection,FALSE,immune
+BST1,5.56984015,4.45E-12,5.70E-10,FALSE,Bos indicus,milk production,TRUE,immune
+LOC112444532,4.684895558,8.53E-10,4.71E-08,FALSE,Bos indicus,milk production,TRUE,immune
+TLR2,3.856520195,1.54E-12,2.29E-10,TRUE,Bos indicus,milk production,FALSE,immune
+LOC112441460,5.965016087,6.81E-12,2.34E-08,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+IL-15L,-24.25361747,8.67E-16,8.12E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+IL12RB1,-3.158278917,0.2695989047,0.565038185,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+UNC5CL,-25.27877733,5.08E-17,9.18E-16,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CIAPIN1,-2.515991295,0.3852713566,0.7265065393,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+ICAM1,5.212287831,7.57E-14,1.83E-11,TRUE,Bos indicus,milk production,FALSE,immune
+BIRC3,2.771527,4.08E-08,8.16E-06,TRUE,Bos taurus,MAP Infection,FALSE,immune
+BCL2A1,3.533501116,3.41E-09,1.49E-07,TRUE,Bos indicus,milk production,FALSE,immune
+LOC112441499,-3.53689025,6.43E-06,0.001710481246,FALSE,Bos taurus:Bos indicus,BRSV Infection,TRUE,immune
+LOC112446746,-2.170582245,0.01875475835,0.06436746005,FALSE,Bos indicus,milk production,TRUE,immune
+ZFPM1,-2.273967127,2.31E-05,0.0002864982629,TRUE,Bos indicus,milk production,FALSE,immune
+DDX3X,2.099893659,0.0006454167963,0.004612358342,TRUE,Bos indicus,milk production,FALSE,immune
+CXCR3,-11.29972369,0.0001781692787,0.001035717828,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,TRUE,immune
+CXCL5,4.456860541,1.66E-10,1.17E-08,FALSE,Bos indicus,milk production,TRUE,immune
+NFATC4,-8.434647454,0.003607865065,0.01587777195,TRUE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,immune
+CCDC13,-1.533717939,0.08570301087,0.2341799461,FALSE,Bos taurus,milk production,FALSE,non-immune
+PRRX2,-4.709794562,0.01659387993,0.06360738294,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447581,-25.26085468,2.15E-15,1.63E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LEAP2,-5.842715264,0.09357820796,0.2004579777,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRPM5,-3.841494926,0.06665716327,0.1457751795,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC534520,-1.01769746,0.07102097404,0.2640771661,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+GCC1,-3.073067822,0.04431051194,0.1386833918,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC104972958,-5.137562017,0.07039410519,0.1858734036,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SLC6A1,-5.417075629,0.05326772041,0.1547667955,FALSE,Bos taurus,milk production,FALSE,non-immune
+MX2,-1.802165168,0.06669431901,0.1508263988,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132344209,-2.514983328,0.08982170033,0.2227560796,FALSE,Bos taurus,milk production,FALSE,non-immune
+ANGPT2,-3.674491596,0.03435561428,0.09035567671,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAC-ACA_136,-21.1979607,0.005102625014,0.01479136921,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC112444953,-3.315058337,0.1046734278,0.2692099199,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CNKSR2,-5.158815881,0.05770916336,0.1385576987,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132342141,-4.840752118,0.07476991578,0.1744346733,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112442821,-17.32778991,0.006435346579,0.02124507806,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MEF2A,-1.435333442,0.1853123339,0.3727794215,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101904078,-1.231337445,0.08153825023,0.207060038,FALSE,Bos taurus,milk production,FALSE,non-immune
+DUOXA2,-0.8907217915,0.06989524685,0.1603819524,FALSE,Bos taurus,milk production,FALSE,non-immune
+IFNL3,-2.37686864,0.09939939141,0.2229056865,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132346318,-25.27637771,3.39E-15,2.45E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+OR4B1F,-24.45881092,1.50E-14,1.01E-13,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TEX54,-3.106104839,0.06347855462,0.1653691614,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+YPEL4,-4.002455575,0.08866319006,0.1957577356,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAG-CCC_123,-25.84690994,6.80E-16,5.58E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+SEBOX,-2.831161483,0.09505101423,0.2328894633,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR2332,-4.806816405,0.03993497462,0.1223111295,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343055,-10.53714698,0.03099403788,0.08133199256,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+BCL2L14,-0.8218789514,0.1230913584,0.2487116967,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112441519,-1.487898672,0.06948569066,0.1900665905,FALSE,Bos taurus,milk production,FALSE,non-immune
+FGF23,-9.614405598,0.03002325646,0.0765517023,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132345685,-3.098022555,0.09709073425,0.2512824657,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+PGLYRP2,-0.6661460241,0.1392726764,0.2632726714,FALSE,Bos taurus,milk production,FALSE,non-immune
+RD3,-24.03396074,1.10E-14,7.73E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112446041,-3.591474665,0.02093281849,0.0602771806,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAG-UCC_16,-24.85837253,7.92E-15,5.49E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+H2BC12,-1.136113553,0.1122331903,0.370035399,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+LOC112448847,-24.47042732,2.86E-15,2.17E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LPO,-2.705675748,0.09539448819,0.2268006921,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101907606,-26.51861637,8.33E-17,9.99E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+KATNAL2,-3.597715428,0.0893087818,0.2968580414,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+LOC132343637,-2.204892574,0.1014085974,0.2067461699,FALSE,Bos taurus,milk production,FALSE,non-immune
+STPG3,-2.470772817,0.06226536307,0.1550552013,FALSE,Bos taurus,milk production,FALSE,non-immune
+ACSM4,-4.935626928,0.05732657844,0.1448988422,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132345074,-2.947601514,0.04800547412,0.153750698,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CYP4B1,0.01280424991,0.07256008445,0.1598179043,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112443661,-2.22467182,0.05645838606,0.2141443478,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+LOC100847415,-24.31243856,5.39E-14,3.52E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+NMUR2,-2.27336424,0.1530346632,0.3036185142,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+C19H17orf100,-1.921058625,0.1088492085,0.2529145946,FALSE,Bos taurus,milk production,FALSE,non-immune
+CELF3,-2.667087132,0.08757732972,0.2171383406,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132346955,-10.19923936,0.03923710828,0.09719854754,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAS-GGA_15,-25.14327637,1.21E-15,9.94E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+MIR7858,-24.88605871,8.05E-15,5.58E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+EXOC3L2,-3.249102154,0.1391809923,0.3055980317,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC107131363,1.975714406,0.05318424051,0.140271744,FALSE,Bos indicus,milk production,FALSE,non-immune
+TMEM163,-2.227457193,0.09634219009,0.22644892,FALSE,Bos taurus,milk production,FALSE,non-immune
+UPK3A,-4.662522229,0.1189933088,0.2554982751,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR12043,-5.435763236,0.01219154594,0.03595455909,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112442208,-2.963840784,0.05754417265,0.1501928964,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAE-UUC_28,-25.23170964,8.34E-15,5.76E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC112447038,-5.08636813,0.04447375637,0.1429322475,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ZSCAN32,-24.37732138,7.06E-15,5.13E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+SIX4,-2.235068618,0.04842106158,0.1121729489,FALSE,Bos taurus,milk production,FALSE,non-immune
+GPR174,-1.995155306,0.03909764303,0.1151901258,FALSE,Bos taurus,milk production,FALSE,non-immune
+POLR3K,-2.571820581,0.2338222397,0.4613876671,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SORBS3,-1.553102987,0.02936151701,0.08140548962,FALSE,Bos taurus,milk production,FALSE,non-immune
+AQP9,-24.22792514,2.89E-15,2.27E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132342640,-2.157045671,0.05814498946,0.1765717553,FALSE,Bos taurus,milk production,FALSE,non-immune
+RRAS2,-4.95793135,0.1048542307,0.2406896911,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CPB2,-2.17366751,0.1409425127,0.2698808398,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101906235,-6.39488786,0.06278347122,0.1643255091,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC104969889,-3.147008325,0.02747510166,0.07412730059,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447920,-25.43844832,9.59E-15,6.45E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+HOXA9,-24.40185309,1.02E-14,7.27E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+KIF19,-3.180894288,0.1136704724,0.257834886,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC618561,0.3042017594,0.05656320988,0.1576359899,FALSE,Bos indicus,MAP Infection,FALSE,non-immune
+LOC100296195,-5.19971353,0.07883704787,0.1881177812,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112444175,-6.981863802,0.03155291799,0.1287459035,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+PACRG,-4.0608596,0.1029080594,0.2139739488,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101902407,-7.069632324,0.08135915314,0.1718467331,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+NSMAF,-4.878678017,0.1331436687,0.2707202192,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+C29H11orf86,-2.689055688,0.09022395522,0.2540032605,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAC-GCA_144,-4.999346709,0.03358165446,0.09375335637,FALSE,Bos taurus,milk production,Not Present,non-immune
+NAE1,-3.659326454,0.1355828955,0.3125661656,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CHST7,-0.4556725217,0.03842837595,0.08873330506,FALSE,Bos indicus,milk production,FALSE,non-immune
+LOC132346636,-8.477563737,0.0599208889,0.1453648126,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112445677,-1.885708558,0.04454520502,0.1759277658,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132344052,-24.38757135,2.08E-15,1.72E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+DLX4,-4.457427809,0.08801696376,0.2092004097,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC511683,-2.074476703,0.06668372797,0.1699350273,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+ELOVL3,-6.633585715,0.1004617705,0.2063815506,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR2285AK,-2.220147535,0.04111732119,0.1130944647,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112449448,-3.129959254,0.05916058431,0.1853274041,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LTB4R2,-3.592854126,0.07027544219,0.2247838896,FALSE,Bos taurus,milk production,FALSE,non-immune
+RAB3C,-4.040677654,0.1612300593,0.3314865884,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ASCC1,-4.846925491,0.05974158928,0.1371742995,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR2896,-1.633727356,0.06288033872,0.1808264287,FALSE,Bos taurus,milk production,FALSE,non-immune
+BRK1,-1.017851016,0.09980267096,0.2087104047,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+TNFSF15,-0.8568412585,0.03005811486,0.1353857446,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132343357,-3.824828087,0.05914560606,0.1819513705,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ADORA2B,-0.5429165298,0.03624208877,0.09240989102,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132345363,-5.816060238,0.02964388918,0.0823928026,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+FRRS1L,-5.69234774,0.06065345813,0.1396086324,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAM-CAU_13,-2.098140436,0.05545547792,0.1557370266,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC107132464,-2.090421154,0.05521905284,0.1204139092,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132346148,-2.318804878,0.06243855801,0.1308315878,FALSE,Bos taurus,milk production,FALSE,non-immune
+ITGA9,-3.039035414,0.1197368903,0.2580532831,FALSE,Bos taurus,milk production,FALSE,non-immune
+MPP3,-4.129117164,0.08651245402,0.1701792207,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132344779,-3.543841538,0.1062492464,0.2594645269,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAW-CCA_133,-24.94410094,5.72E-15,3.99E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+RNASE10,-0.9604611855,0.08769300071,0.2393446384,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112446682,-0.8950068722,0.1086892831,0.2718600565,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112443149,-2.532091604,0.05364009397,0.157929664,FALSE,Bos taurus,milk production,FALSE,non-immune
+SYT3,-2.712841731,0.07736895453,0.2175278364,FALSE,Bos taurus,milk production,FALSE,non-immune
+FAM169A,-4.063057278,0.06810716822,0.1549013252,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+VSX2,-8.652022313,0.009607970301,0.03911370275,FALSE,Bos taurus,milk production,FALSE,non-immune
+ZMYND15,-3.73324419,0.1523900619,0.3267362445,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC104975460,-3.610665405,0.08967914395,0.1831117963,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112441781,-2.833857046,0.08506955484,0.258580843,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+LOC784866,-0.3393228141,0.113859081,0.2725422279,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+TRNAG-CCC_70,-25.20647394,6.80E-15,4.77E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+CTNND2,-4.812478906,0.08821158906,0.1739117013,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CD163L1,-0.3310640132,0.05434341673,0.1416204425,FALSE,Bos taurus,milk production,FALSE,non-immune
+MAPK11,-5.44086195,0.09167184917,0.2076556466,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112448518,-14.7398004,0.03042378226,0.07121545244,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SH2D1A,-1.074559456,0.09055704661,0.1868251522,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447334,-1.980487125,0.1066564266,0.2512649634,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101908225,-2.97574991,0.06129974271,0.1414102685,FALSE,Bos taurus,milk production,FALSE,non-immune
+TBX6,-2.773180877,0.0943599801,0.2115460058,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132342412,-1.728146824,0.05718446882,0.167290648,FALSE,Bos taurus,milk production,FALSE,non-immune
+PLEKHA7,-4.42707816,0.05838615952,0.1435926248,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SSNA1,-1.531000309,0.1082574477,0.2387408389,FALSE,Bos taurus,milk production,FALSE,non-immune
+GKN1,-2.608178281,0.06308772584,0.1463164824,FALSE,Bos taurus,milk production,FALSE,non-immune
+SLC2A4,-1.427454771,0.05146506603,0.1556006255,FALSE,Bos taurus,milk production,FALSE,non-immune
+CADPS2,-3.672805283,0.1116945651,0.2468219555,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112449143,-5.313299247,0.05258948254,0.1901268024,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+OC90,-0.9159866995,0.08814966616,0.2081287808,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC104972401,-8.210856483,0.0801202495,0.1914753834,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAC-GCA_94,-25.27520296,1.14E-15,9.33E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+KCTD20,-2.3760295,0.1352346285,0.2874820962,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112442459,-7.059702785,0.04990006144,0.118809999,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132345241,-5.820142098,0.07673282012,0.1647857817,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101904722,-6.419819285,0.06060159695,0.1513955069,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SCG5,-24.82497581,9.06E-15,6.15E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132345998,-6.597331998,0.04008139059,0.0918142013,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ABCC8,-5.318587207,0.1409446601,0.2898613404,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112444641,-24.89981459,2.25E-15,1.79E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132342951,-0.967157643,0.05094892344,0.1328617415,FALSE,Bos indicus,milk production,FALSE,non-immune
+NECTIN4,-3.605562763,0.110954539,0.2594199985,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+THRB,-1.486555359,0.06638628794,0.1463100776,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132343891,-24.58111188,9.91E-15,6.89E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR193B,-25.50374295,2.66E-15,1.97E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+PCK1,-4.376833589,0.06949645304,0.1743346741,FALSE,Bos taurus,milk production,FALSE,non-immune
+GRINA,-4.130841439,0.04245838975,0.1198000492,FALSE,Bos taurus,milk production,FALSE,non-immune
+LITAF,-1.698309794,0.0774404357,0.1860658771,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112445172,-5.745823582,0.02792427263,0.08339322182,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR10165,-24.76469215,1.99E-14,1.36E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LAPTM4B,-0.2277945337,0.09566873818,0.2007497304,FALSE,Bos taurus,milk production,FALSE,non-immune
+HES3,-25.14514758,2.25E-15,1.74E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+RARG,-3.368239938,0.04193555021,0.104084757,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112443361,-4.083843762,0.03786939313,0.1555085071,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAW-CCA_90,-25.08190014,1.23E-14,8.29E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+FBXO48,-0.7692276265,0.1022034823,0.2296561506,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC100336431,-1.813695578,0.1034478762,0.2396200436,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC100848559,-2.142751364,0.05320900845,0.1482496394,FALSE,Bos taurus,milk production,FALSE,non-immune
+ATPAF2,-0.7189530728,0.179472204,0.3550009856,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC521656,-2.007911154,0.05677209442,0.1275083167,FALSE,Bos taurus,milk production,FALSE,non-immune
+TYSND1,-2.189276767,0.1345220361,0.2688786475,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+PRKG2,-1.095015353,0.1260087189,0.2534525753,FALSE,Bos taurus,milk production,FALSE,non-immune
+EDRF1,-2.231902826,0.1932030473,0.4321260249,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SLFN11,-5.216666509,0.0614722375,0.1625925049,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAR-CCU_6,-24.8276026,2.69E-15,2.02E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+TPC3,-5.07307697,0.1313379112,0.2690599141,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132345829,-11.86987036,0.04352442349,0.1011571464,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112441990,-25.70647219,1.39E-16,1.72E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+PVRIG,-4.152379436,0.0493056623,0.124080737,FALSE,Bos taurus,milk production,FALSE,non-immune
+INHA,-3.24479837,0.09626559632,0.2469763405,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC788414,-5.201340964,0.07927269033,0.1692008949,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ZNF382,-2.557247946,0.1894727974,0.3871136912,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+DEPDC5,-3.707100296,0.1042134704,0.2480275813,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101903616,-2.728125273,0.0662439888,0.212593332,FALSE,Bos taurus,milk production,FALSE,non-immune
+EPM2A,-1.453046753,0.1147941659,0.2459299193,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+FOLR3,-6.836247733,0.08414439116,0.1886302772,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112444463,-4.718267352,0.04203657867,0.1219701144,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112446465,-2.726182917,0.07358469157,0.1612250722,FALSE,Bos taurus,milk production,FALSE,non-immune
+CIT,-7.028627662,0.08082512631,0.1725751819,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+HSPA1A,-2.778510526,0.1204428427,0.2819946913,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343256,-25.15677865,1.22E-14,8.22E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC104974460,-3.20145459,0.05384810546,0.1408925394,FALSE,Bos taurus,milk production,FALSE,non-immune
+BT.53393,2.027889213,0.004418614249,0.04084089995,FALSE,Bos indicus,MAP Infection,FALSE,non-immune
+LOC101907107,-3.311703648,0.07123719291,0.1512929033,FALSE,Bos taurus,milk production,FALSE,non-immune
+TKTL2,-3.290316649,0.1160459265,0.2281045308,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101905484,-22.81492529,2.83E-06,1.79E-05,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LYZ3,-1.90413306,0.08034271161,0.1999165567,FALSE,Bos taurus,milk production,FALSE,non-immune
+OR6D19,-23.56789438,0.0004881541377,0.001961507568,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+CHCT1,-2.763568542,0.04720774192,0.1308223142,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132346535,-3.001525882,0.02692143232,0.06938518527,FALSE,Bos taurus,milk production,FALSE,non-immune
+KRT35,-0.4302845715,0.03686566231,0.08358050928,FALSE,Bos indicus,MAP Infection,FALSE,non-immune
+TRNAK-CUU_10,-25.34407975,5.27E-16,4.66E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC107131810,-0.2951893446,0.0645991238,0.1326944072,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+CDC42EP4,-0.4114289207,0.1131896963,0.2451347456,FALSE,Bos taurus,milk production,FALSE,non-immune
+PIP4P2,-1.171071553,0.1101140383,0.2546120192,FALSE,Bos taurus,milk production,FALSE,non-immune
+HAO1,-6.209891653,0.1107952229,0.2269011166,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132344334,-8.202595512,0.05514160318,0.1428057526,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAC-ACA_204,-24.45486878,1.27E-14,8.73E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+ROBO2,-3.316904363,0.10491778,0.2142412569,FALSE,Bos taurus,milk production,FALSE,non-immune
+APOA5,-1.67595401,0.06330306421,0.1668502268,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+MIR371,-1.959250613,0.04602014703,0.1036274858,FALSE,Bos taurus,milk production,FALSE,non-immune
+SNAI1,-1.36637262,0.07261486144,0.1868397171,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR2425,-13.86259036,0.02335138186,0.05788992264,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+COL3A1,-3.880884358,0.02477754838,0.072053376,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132346784,-25.23006758,1.80E-15,1.40E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112448068,-2.863110458,0.06370869671,0.2092059275,FALSE,Bos taurus,milk production,FALSE,non-immune
+WDR97,-0.4513070073,0.08985010168,0.2258146357,FALSE,Bos taurus,milk production,FALSE,non-immune
+NRAP,-5.239622332,0.07768179672,0.1973432755,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112448640,-5.619625421,0.04254329195,0.1364971075,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132344895,-10.87151461,0.03157876014,0.0798676107,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TMEM87A,-4.708069247,0.1382230027,0.2751223421,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132342798,-23.70624333,4.17E-07,2.66E-06,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+DNALI1,-2.414415959,0.1901276379,0.3852883473,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+RHOBTB3,-3.054809232,0.09171612902,0.204917315,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+GDF3,-3.040178659,0.08417694698,0.2045909432,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC107132977,-6.01750364,0.05345621396,0.122245742,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC613677,-6.935861883,0.05537354042,0.1444314976,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC104969035,-5.618552143,0.1157848251,0.2614775323,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC505349,0.4534519397,0.05500736983,0.1565189971,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+SPSB2,-3.192942117,0.1125449677,0.2389517106,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR2285E-2,-25.23536172,3.33E-16,3.28E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIXL1,-4.286281014,0.06465070372,0.1562732151,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112447765,-5.217274453,0.05882550199,0.1339986908,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SERPINB10,-1.903707928,0.06663419248,0.1482317671,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+AGXT2,-5.03576068,0.07498464257,0.1753071305,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SARM1,-1.00712283,0.1384792259,0.3011413873,FALSE,Bos taurus,milk production,FALSE,non-immune
+CEP128,-1.201216218,0.2260056455,0.4618448914,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343470,-3.901738971,0.03180111706,0.1143331075,FALSE,Bos taurus,milk production,FALSE,non-immune
+ZFP36,-5.863142114,0.04960567923,0.104928955,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132343779,-25.29241741,1.78E-15,1.32E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC104971301,-4.748282466,0.01047722881,0.04764174645,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112442767,-13.27716527,0.03257922208,0.07836740786,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+NHERF4,-2.702935898,0.1154562524,0.252284271,FALSE,Bos taurus,milk production,FALSE,non-immune
+METTL26,-6.363729474,0.1153093598,0.2327300248,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+HMCES,-3.191079646,0.05940990835,0.1478593241,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+GADD45G,-7.069108632,0.1079055923,0.2548759401,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MCMDC2,-2.827255334,0.1018520477,0.2275034157,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+OPCML,-1.724278326,0.05890623675,0.1410224998,FALSE,Bos taurus,milk production,FALSE,non-immune
+MRPS14,-1.69764531,0.2187076745,0.4410910784,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ADAMTS14,-4.264162198,0.02469376411,0.0803499159,FALSE,Bos taurus,milk production,FALSE,non-immune
+PSMC3IP,-1.637884854,0.1873627934,0.3821582469,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132344071,-0.9120856001,0.03346380198,0.09700193979,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAG-CCC_96,-8.137792952,0.0177187043,0.05468707481,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+CCDC88C,-4.789171409,0.08417454962,0.2063423207,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SLC13A3,-2.139867667,0.03393176583,0.09139124367,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112448858,-0.9130996084,0.05420417294,0.1618734876,FALSE,Bos taurus,milk production,FALSE,non-immune
+GYPB,-10.14112133,0.03480701832,0.07849207176,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+GNPAT,-5.356904132,0.1903690014,0.3726333828,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+UFSP1,-1.681489244,0.1702250664,0.3407809303,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ARHGEF3,-1.96666999,0.02834418022,0.1462656054,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+CYP1A1,-1.470638238,0.05744876285,0.1563494606,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112441645,-2.103143008,0.04962337224,0.1357284695,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAG-CCC_226,-24.12048807,3.06E-05,0.0001657223022,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC100140431,-4.464450606,0.06834781641,0.1659226465,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112445960,-5.040167932,0.02913468086,0.07581908122,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CAPN13,-5.534164288,0.07014529326,0.1662066336,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343873,-3.099760648,0.04036803137,0.1033625425,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112449325,-0.9419265023,0.05350275915,0.1436017337,FALSE,Bos indicus,milk production,FALSE,non-immune
+BBS10,-10.74815031,0.09281329364,0.1952934191,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132345288,-5.037391382,0.04128585144,0.1096823958,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132342285,-24.97546533,2.73E-15,2.06E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+BMP3,-2.831594469,0.07528604523,0.191904431,FALSE,Bos taurus,milk production,FALSE,non-immune
+IDNK,-0.7873842946,0.09752118072,0.2031121783,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132342473,-3.107896273,0.08104842939,0.1825199161,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MYMX,-1.915806225,0.187751946,0.4264058283,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+KCNH3,-1.93617409,0.02245933708,0.06507588318,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101903368,-3.122487795,0.06375218205,0.1408066861,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112446718,-19.50711159,0.0007288221602,0.003266824403,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ANO10,-3.816387908,0.07643948613,0.1588117733,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112445309,-24.34349836,1.75E-14,1.19E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MTCH2,-2.243407921,0.1511336409,0.3065578836,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+RPL27,-2.025883413,0.227029779,0.4619351507,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101907658,-4.343070088,0.0685364293,0.1699148718,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TEN1,-2.065222162,0.09557250615,0.2120344293,FALSE,Bos taurus,milk production,FALSE,non-immune
+CLEC10A,-1.053420956,0.03171639826,0.08089699208,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAE-CUC_50,-7.515884743,0.03283231541,0.08499854176,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+DDX43,-1.348335214,0.08936880499,0.2043381221,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112444779,-24.7815886,5.09E-15,3.58E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC100337507,-1.389259181,0.05671707364,0.178851304,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+TRIP10,-2.286661545,0.1431128268,0.2682965118,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CRIP3,-21.81116165,6.60E-07,4.23E-06,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LRRC23,-3.622142341,0.06544035895,0.1684792162,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447080,-4.340766439,0.06195213292,0.1357995322,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343100,0.04765194074,0.05971841525,0.1823046242,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101905365,-1.156414885,0.06755097948,0.1482765971,FALSE,Bos taurus,milk production,FALSE,non-immune
+ALOX15,-2.458922768,0.1247059338,0.2590280826,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC100299757,-1.479714123,0.06074778742,0.1614233743,FALSE,Bos taurus,milk production,FALSE,non-immune
+SLC22A14,-1.033818543,0.07340679646,0.1588187411,FALSE,Bos taurus,milk production,FALSE,non-immune
+VASH1,-2.720948258,0.1459406779,0.2885555526,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+GPR62,-5.190975567,0.03135328641,0.07763100941,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAS-GGA_84,-5.685693308,0.03267052147,0.09142099896,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+C13H20orf144,-25.64232625,2.80E-15,2.01E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132346851,-9.895240034,0.0445288921,0.105404996,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132346397,-4.658404276,0.06865722236,0.1683846407,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112448190,-19.83762391,0.001964049957,0.007825110333,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAG-CCC_17,-24.5904814,1.09E-14,7.62E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+RDH5,-3.164288466,0.09898126648,0.2386550751,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343239,-0.5414204793,0.02518856591,0.1064804775,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112443630,-25.02150691,4.51E-15,3.36E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+SPATA32,-3.284516606,0.113892054,0.2437607812,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR1296,-25.65767871,8.60E-16,6.94E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ECD,-1.155483552,0.122698705,0.2490213337,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAR-UCU_3,-5.665798621,0.02355199395,0.06837036752,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+TRNAC-GCA_193,-24.55117608,1.98E-14,1.32E-13,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC112443756,-13.66822488,0.01631098665,0.07059037804,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+PPP1R15A,-1.635370132,0.1360036475,0.2761446015,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC104973892,-1.865865446,0.06068825975,0.1483518757,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC785868,-3.262696132,0.06860194181,0.2143846215,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132346586,-8.684930362,0.03198902116,0.09736537437,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CA5A,-3.691263975,0.04110073256,0.1321322884,FALSE,Bos taurus,milk production,FALSE,non-immune
+HCFC1R1,-1.253929604,0.06220904883,0.1609162836,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112444618,-2.625660653,0.05879589657,0.1857354645,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR11985,-4.96508811,0.04586607566,0.1134190321,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+OVGP1,-25.41182752,4.50E-15,3.14E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ZNF581,-3.838322188,0.2030762174,0.4060269793,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR1306,-5.335452543,0.02937127165,0.1156075558,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC781197,-2.534050619,0.06574349193,0.1586735005,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+FANCD2OS,-24.70036007,6.94E-16,6.47E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132345757,-7.228792173,0.07944316484,0.2266139512,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TMEM120A,-3.414426695,0.1222341219,0.2501228409,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+KLF10,-2.145907737,0.07608219317,0.1792335772,FALSE,Bos taurus,milk production,FALSE,non-immune
+TSPYL2,-6.302765233,0.1153792819,0.2398406795,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132342198,-8.373792761,0.03078580422,0.08817296186,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+KEH36_t15,-3.070814032,0.1000657277,0.224764495,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+PDGFRL,-6.295484624,0.1381584226,0.2758611617,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ENAH,-3.864702617,0.1316817435,0.2633595999,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SLC35F3,-24.86791612,3.72E-15,2.71E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAY-GUA_43,-25.61867922,2.29E-15,1.67E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112449617,-25.27806971,1.94E-15,1.48E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112443039,-22.57544827,0.000974718368,0.003703236268,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112442093,-3.988954281,0.07889864651,0.2184191826,FALSE,Bos taurus,milk production,FALSE,non-immune
+PLPPR2,-1.373465455,0.06673686732,0.1545561416,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC101902797,-2.817375125,0.07123995069,0.1530927808,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112442376,-5.482100279,0.08669875138,0.2087835728,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343958,-1.054754107,0.1054589447,0.2837830308,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC104976020,-2.171696762,0.0565840251,0.1327250998,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112448960,-15.0045558,0.005024723643,0.0183355235,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+AADACL4,-5.595255783,0.06854583327,0.1505098444,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101902059,-1.012869731,0.05167863697,0.1231631319,FALSE,Bos taurus,milk production,FALSE,non-immune
+WNT16,-8.040438956,0.06591108794,0.156552208,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC517901,-7.299066614,0.04075139885,0.1003105529,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+NUTM1,-5.218367785,0.1782014855,0.3490951893,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101907394,-1.801286909,0.0747187428,0.1901601902,FALSE,Bos taurus,milk production,FALSE,non-immune
+TBC1D16,-2.530474728,0.1502394698,0.3205678172,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343017,-0.6169843874,0.06141562826,0.1557240655,FALSE,Bos taurus,milk production,FALSE,non-immune
+DPPA4,-2.352790187,0.1617961534,0.3412179443,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132345119,-2.920050854,0.04566021667,0.1451130792,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR199A-1,-1.958106412,0.02595112983,0.05813499801,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132342801,-2.853895308,0.05311880291,0.1263587468,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAG-UCC_106,-4.104838982,0.01492646243,0.04724790581,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+TRNAW-CCA_29,-25.26768207,1.20E-14,8.13E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+TRNAG-ACC_3,-4.920297849,0.03770770685,0.1014871049,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+LOC101906463,-6.182101911,0.05278600199,0.143515303,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC100848025,-5.424905805,0.03707263401,0.1393455624,FALSE,Bos taurus,milk production,FALSE,non-immune
+NCKAP5,-4.614154453,0.0955188284,0.2221828193,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR2285BP,-24.81818159,4.26E-15,3.06E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112445843,-3.244949305,0.03971616132,0.09876527745,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR545,-25.63394358,9.71E-17,1.39E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112444797,4.870798893,0.01920249923,0.1942205148,FALSE,Bos indicus,MAP Infection,FALSE,non-immune
+STARD8,-2.238083717,0.116558951,0.2549927566,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC527385,-1.394897508,0.02230279795,0.07518295358,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112441884,-5.584974798,0.1570786827,0.3392978635,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112447031,-25.0139278,2.36E-16,2.58E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC104975044,-8.376713395,0.04834646296,0.1215846194,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MGC137055,-4.212489334,0.1074771824,0.2448740882,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+HPDL,-2.00243267,0.0745951305,0.2301464803,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+FADS3,-2.085901111,0.1176481409,0.2429850206,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132342071,-1.659838602,0.09201285954,0.2648817996,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+SHISA5,-4.465774336,0.09187052916,0.1993599336,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR2372,-24.64960407,3.73E-06,2.31E-05,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+CCNF,-4.005594939,0.03709052078,0.1812430249,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+TRNAK-UUU_49,-18.89676689,0.006549139404,0.01892529268,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+TRNAN-GUU_15,-25.67737397,5.69E-16,4.86E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112442005,-4.833618079,0.08296889227,0.1989167756,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC616957,-3.228511773,0.0575318629,0.1633949972,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+C6H4orf48,-3.399394105,0.07919447551,0.1783298369,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112443250,-2.946304922,0.05869910917,0.2217816589,FALSE,Bos taurus,milk production,FALSE,non-immune
+SNX10,-1.993587879,0.1659327063,0.3439876283,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132344859,-1.288925178,0.05975202138,0.130327527,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132345486,-2.87742634,0.04959591184,0.1185466943,FALSE,Bos taurus,milk production,FALSE,non-immune
+ACAP3,-3.64568149,0.1792857728,0.3700418397,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112446520,-18.51460799,0.01068631825,0.02424191253,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ISG12(B),-1.491584908,0.05130821122,0.1266781702,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132343786,-2.59517859,0.0405894534,0.1300589985,FALSE,Bos taurus,milk production,FALSE,non-immune
+PARM1,-5.38492486,0.08488752216,0.1845580049,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+FIGNL1,-3.083636169,0.08933123007,0.2122429056,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TMEM217B,-2.131743677,0.1256474251,0.2702034088,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR1777A,-3.679863573,0.05057439049,0.113607785,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MMP23,-1.574138439,0.05244840261,0.164904659,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+TRNAG-UCC_66,-25.11194068,6.25E-15,4.36E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+NPC1,-22.86996954,2.93E-06,1.84E-05,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112442958,0.1015994152,0.0570124094,0.195050399,FALSE,Bos taurus,milk production,FALSE,non-immune
+ESRP2,-4.986634652,0.08353330073,0.1946929056,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SCD,-0.9558317651,0.09362737863,0.2005538377,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+S1PR4,-5.084572043,0.09923369925,0.1932426959,FALSE,Bos taurus,milk production,FALSE,non-immune
+CSGALNACT1,-1.420099459,0.05806757349,0.1471791691,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132346353,-2.150618117,0.03662140502,0.0948577759,FALSE,Bos taurus,milk production,FALSE,non-immune
+FAM229B,-1.435191304,0.1388523134,0.2851984396,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+OR2J1,-1.15800871,0.0370375645,0.08801262586,FALSE,Bos indicus,milk production,FALSE,non-immune
+PKDCC,-12.04947759,0.06628302254,0.1588052107,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR101-2,-1.743148142,0.06890372148,0.1595054693,FALSE,Bos taurus,milk production,FALSE,non-immune
+OXSR1,-0.673489755,0.0365114406,0.1228246583,FALSE,Bos taurus,milk production,FALSE,non-immune
+TNS4,-2.646287988,0.09540870797,0.1946375194,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132344722,-4.691482152,0.09183148579,0.2236810327,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447454,-6.713031058,0.05845954803,0.12733327,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SEMA3G,-3.969286493,0.04855755949,0.1234440889,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447219,-25.29233898,4.64E-15,3.23E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+THEG,-25.09730625,4.02E-16,3.83E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ZSCAN9,-1.903381134,0.1127056642,0.2689330998,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+ATP2C2,-6.990296675,0.08006421066,0.1711159748,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ANKRD23,-2.377947842,0.09093934568,0.2187480124,FALSE,Bos taurus,milk production,FALSE,non-immune
+GSR,-2.883078635,0.09374570033,0.2094754129,FALSE,Bos taurus,milk production,FALSE,non-immune
+GAREM1,-6.939033852,0.07220793544,0.1595078569,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SLC35F4,-4.054101051,0.1371685071,0.3175713504,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ARAP3,-0.8791295795,0.1132893112,0.2726650911,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+FOXP2,-2.801220668,0.1173011535,0.2552119374,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132344156,-24.30424995,3.78E-14,2.49E-13,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAG-UCC_117,-25.10437928,9.03E-15,6.18E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC107132255,-0.3517408644,0.05017366652,0.1625007896,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101904344,-5.469236228,0.07044495896,0.1708801889,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132346043,0.8857720668,0.05721128691,0.1244729135,FALSE,Bos indicus,milk production,FALSE,non-immune
+LOC112445498,-1.82940339,0.05659378996,0.1441772012,FALSE,Bos taurus,milk production,FALSE,non-immune
+LHX2,-4.791444542,0.09600601896,0.2127003898,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC104970784,-1.294809122,0.02385731302,0.06379097584,FALSE,Bos taurus,milk production,FALSE,non-immune
+B3GNT3,-2.378451466,0.07687801327,0.1687475188,FALSE,Bos taurus,milk production,FALSE,non-immune
+CD59,-3.130344227,0.03771767848,0.1083199288,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112443562,-4.162664175,0.1182416507,0.2844929029,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+C20H5orf58,-2.93252117,0.09645107314,0.2229201039,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAR-CCU_16,-3.631070686,0.01795003992,0.06046439863,FALSE,Bos taurus,milk production,Not Present,non-immune
+TRNAC-ACA_175,-4.344537149,0.0318113108,0.08619236878,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+GIPR,-1.895840431,0.1168352223,0.2708112909,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112442143,-25.24990906,1.08E-14,7.19E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112449578,-4.987115359,0.02219507816,0.07164121707,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+DCDC1,-5.327957272,0.08320966246,0.1801965101,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132346756,-3.327159363,0.04176770282,0.1130469321,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112446874,-3.814240927,0.06183086068,0.2468859136,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC104973884,-24.63020696,1.06E-14,7.29E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343521,-2.629299986,0.1030464329,0.2359798432,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LCN2,-7.351287724,0.06330914458,0.1328785977,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MIR331,-18.54417945,0.004619127996,0.01536477034,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR2285G-1,-7.750091409,0.01739454582,0.05284604358,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAW-CCA_173,-8.521400885,0.009471710872,0.03286563397,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+MAK,-2.542097281,0.06990113861,0.1488830638,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132345008,-24.1951104,2.54E-14,1.70E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAC-ACA_226,-6.606498504,0.04062151127,0.105673997,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC112445114,-23.18820359,2.87E-08,1.84E-07,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132345525,-25.49513413,2.03E-15,1.53E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+PRICKLE4,-25.12494258,5.41E-16,5.00E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112448595,-9.620873188,0.02951952206,0.07343042595,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAC-GCA_209,-7.974768855,0.01076636312,0.03662214597,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+DYNLRB1,-9.210155384,0.08024186252,0.1576957257,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112446120,0.2232724138,0.04410396952,0.300269278,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+TRNAF-GAA_3,-25.71742255,1.05E-15,8.16E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+MIR2313,-25.00540314,1.40E-15,1.14E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132342729,-4.139978081,0.1227857627,0.2523665766,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ACY1,-0.07033304152,0.1081466749,0.2163752465,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112449171,-24.82982597,3.57E-15,2.62E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112449401,-4.100845086,0.05133339286,0.1747604041,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CLMN,-3.504591643,0.1640291393,0.3257201354,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+RAD54L2,-4.032290971,0.1322350621,0.2839105423,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+RBBP8NL,-2.415850429,0.1217277329,0.2696536363,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101905014,-7.641924099,0.08612460863,0.1922974229,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MYOZ2,-5.600076783,0.08597745712,0.203403186,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+COG7,-6.213342021,0.08591347631,0.199718418,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+AKR1D1,-2.672557206,0.1337205865,0.3055527505,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAG-CCC_162,-6.116619459,0.03883160429,0.09800190001,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+NKD2,-6.620378149,0.09886741553,0.2133599625,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+KCNK4,-10.55317848,0.04522625038,0.08355728861,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132342317,-3.174697409,0.06225851738,0.1808543149,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR2481,-24.73891595,4.39E-15,3.25E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112448762,-4.315207034,0.04632835813,0.1107611581,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAH-GUG_29,-4.898028956,0.03338555735,0.1191180466,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+MIR6528,-5.138740843,0.0664417096,0.1911128135,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CTXND2,-4.659790848,0.1446426078,0.2811029084,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+NEUROD2,-2.133094961,0.1028866098,0.2456627759,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112444279,-24.45358808,4.23E-15,3.21E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343308,-3.026291221,0.008899883493,0.03016130918,FALSE,Bos taurus,milk production,FALSE,non-immune
+GLDC,-25.36284642,1.25E-16,1.47E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+BEX5,-4.224141908,0.03273560423,0.08459329627,FALSE,Bos taurus,milk production,FALSE,non-immune
+SFI1,-24.66875321,1.68E-14,1.13E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+EFNB3,-2.832777051,0.02517852425,0.1123764533,FALSE,Bos taurus,milk production,FALSE,non-immune
+VKORC1,-3.287585006,0.1124670421,0.2334390496,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC523590,-25.36081512,2.35E-15,1.74E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ARNTL2,-4.17728392,0.13075294,0.2812001777,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+OGN,-20.50638118,0.0004279932407,0.001997801746,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR24-1,-4.118092196,0.06566539366,0.1671542426,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TM9SF4,-7.561536375,0.08292663657,0.1712967174,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112447851,-2.758138899,0.05892173939,0.1252511156,FALSE,Bos taurus,milk production,FALSE,non-immune
+C13H20orf141,-3.169720874,0.03621528829,0.1061037749,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101907970,-4.058018111,0.07883877353,0.1655324824,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+OSCAR,-2.101845689,0.04038994657,0.1007818465,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC107131549,-5.294635193,0.05705356331,0.1605059024,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+HS6ST1,-2.955608638,0.05094764611,0.1652438552,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+PNMA6E,-3.697516123,0.1096688307,0.227529834,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112443541,-25.90508616,9.85E-16,8.05E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+PIANP,-2.400070617,0.2139229635,0.4499910569,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+FER1L6,-5.27685343,0.08168969452,0.1832473544,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CROCC2,-4.235277374,0.02787867349,0.0752522764,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132344225,-23.5369859,2.02E-06,1.27E-05,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC104975693,-24.58164418,1.24E-14,8.36E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC107131785,-25.62993631,5.40E-15,3.68E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112444305,-4.856976761,0.0819719299,0.1717221266,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+DIPK2B,-1.078494037,0.1103889201,0.2425365212,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132343836,-24.64306688,1.08E-14,7.42E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+STYXL2,-1.265259236,0.07948682396,0.1635216774,FALSE,Bos taurus,milk production,FALSE,non-immune
+SOCS5,-23.94414804,2.25E-14,1.53E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAC-ACA_60,-19.12450807,0.00306694827,0.009509508485,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC132342994,-24.25628805,5.39E-07,3.44E-06,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC281806,0.4780500385,0.0359835011,0.1031788024,FALSE,Bos indicus,milk production,FALSE,non-immune
+C28H10orf71,-24.61720914,1.20E-14,8.12E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+CHRM3,-4.270787823,0.05379820968,0.1513803482,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132343212,-6.396111387,0.02133163525,0.06247094748,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+H3C8,0.6484338205,0.1349740401,0.4675444718,FALSE,Bos taurus,BRSV Infection,FALSE,non-immune
+LOC132345558,-3.855827358,0.04961899277,0.120319686,FALSE,Bos taurus,milk production,FALSE,non-immune
+TANGO6,-2.13028772,0.1231027512,0.2565715215,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+PHACTR1,-24.63530778,1.04E-15,9.05E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+CASS4,-1.68715505,0.1419085132,0.310883858,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC100847606,-1.674461442,0.03634190025,0.1512765559,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC112445096,0.4612579349,0.07353383487,0.1878353204,FALSE,Bos indicus,milk production,FALSE,non-immune
+PLAC8A,-2.540373876,0.03275402179,0.09879840755,FALSE,Bos taurus,milk production,FALSE,non-immune
+RILPL2,-5.071536846,0.07545464965,0.1800084963,FALSE,Bos taurus,milk production,FALSE,non-immune
+CFAP251,-8.676161197,0.0489293899,0.1288962407,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+STAC2,-24.62895001,1.25E-15,1.06E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC508441,-4.48813713,0.06205682111,0.1417645201,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CRABP2,-2.509130251,0.1532838528,0.3244057079,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+KLHL3,-24.27514763,8.58E-15,6.21E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAD-AUC_1,-6.627509985,0.02213314029,0.06208716852,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+NPAS3,-4.11309742,0.1508390278,0.3238461539,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132345320,-6.493269945,0.06087809169,0.1265184148,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ASRGL1,-24.85865224,5.09E-15,3.65E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+EIF2B1,-4.602622174,0.1994233419,0.3906696548,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC107133214,-5.602597476,0.03090505743,0.09874879417,FALSE,Bos taurus,milk production,FALSE,non-immune
+PTPMT1,-2.53874467,0.09278346539,0.1998333995,FALSE,Bos taurus,milk production,FALSE,non-immune
+HTRA3,-8.428435583,0.07916768632,0.1870212635,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MYL1,-13.05029034,0.02211170062,0.1103134888,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101903906,-7.043852131,0.05871989794,0.1332288271,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112446856,-24.99433028,8.51E-15,5.97E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112442651,-4.228144131,0.02996630399,0.07198957276,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112441568,-25.12350392,1.28E-15,1.05E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ZBTB8B,-2.630471169,0.1844092534,0.3656428941,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112441697,-7.388649182,0.0261385602,0.07591558228,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+HIF1A,-1.615939474,0.1321203786,0.3160396418,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112446327,-9.985812389,0.03112897107,0.07760767554,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+WDHD1,-1.272107776,0.1498252559,0.3042146008,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAR-UCU_14,-25.16070796,5.13E-16,4.69E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+TRNAS-GGA_94,-24.65666106,2.93E-14,1.94E-13,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+C1QTNF3,-24.84410795,2.10E-15,1.72E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343498,-25.67125848,3.10E-14,2.06E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112445245,-23.87690182,2.09E-14,1.41E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112447189,-5.33801788,0.02192835543,0.1243607517,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TEKTIP1,-24.22681341,2.68E-14,1.81E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132346179,-25.76471467,9.44E-16,7.74E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112443886,-2.52826646,0.0698684006,0.1560954032,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC514257,-0.8016901751,0.05580376752,0.1639964165,FALSE,Bos taurus,milk production,FALSE,non-immune
+PRR12,-5.159474429,0.1277637597,0.2867937324,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SEZ6L2,-3.135656016,0.1033398698,0.2394759046,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAS-GGA_28,-4.6746029,0.03705347029,0.09736063947,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+TRNAE-UUC_27,-6.426716645,0.02114567954,0.05924069195,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+SCN9A,-0.3402042614,0.04889888852,0.1093799777,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAY-AUA_31,-6.648115978,0.01492448956,0.04675962612,FALSE,Bos taurus:Bos indicus,milk production,Not Present,non-immune
+LOC132342500,-24.50485408,2.46E-14,1.63E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+KEH36_p10,-7.423849999,0.1235641166,0.2640630021,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112445258,-4.015796309,0.02039348294,0.06194768767,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC781567,-24.9282385,2.13E-13,1.38E-12,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343136,-24.63823977,9.83E-15,6.71E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LMOD2,-23.79887962,2.38E-14,1.60E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112444726,-0.8154922741,0.06197723502,0.2906830524,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+TRNAE-UUC_74,-19.74422044,0.00613168236,0.01885611726,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+TRNAW-CCA_110,-3.241535336,0.06652489068,0.142454639,FALSE,Bos taurus,milk production,Not Present,non-immune
+GRB14,-1.399876064,0.1089592556,0.234046697,FALSE,Bos taurus,milk production,FALSE,non-immune
+ISOC2,-24.95522096,9.71E-16,8.41E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112441714,-24.60778888,2.36E-15,1.85E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR2284N,-22.3765962,2.06E-05,0.0001213634186,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132344028,-1.777277268,0.04821985409,0.1650596033,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC104969449,-1.853716144,0.06874650485,0.212649122,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC531175,-25.1771677,1.01E-15,8.72E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ADCY1,-1.743817387,0.06356891432,0.1387600288,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR12014,-25.12521668,2.80E-15,2.16E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112448650,-25.36619411,3.47E-16,3.41E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC101906836,-3.854399337,0.1199144955,0.2857053333,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TCP11,-3.316068421,0.09570203787,0.2122783946,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAE-UUC_119,-25.03699234,3.83E-15,2.81E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+TNN,-24.69222454,2.06E-14,1.36E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TGM5,-1.895848378,0.07887964,0.1651934074,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC104970268,-12.7446969,0.05805937646,0.1393507515,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ADIG,-25.35985473,2.64E-16,2.86E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MAST4,-1.431391284,0.1376793591,0.2687133225,FALSE,Bos taurus,milk production,FALSE,non-immune
+OR10J3,-25.11311829,4.43E-15,3.25E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132345955,-5.025222815,0.05752064462,0.1673133855,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112442635,-25.06390607,7.22E-16,6.47E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TMSB4X,-4.312804875,0.09702851403,0.1949437552,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC107132796,-5.714473663,0.04498667219,0.1060965678,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC785233,-25.0267778,7.84E-15,5.43E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TSKU,-1.231373072,0.02378816268,0.0784327223,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132346317,-6.208390721,0.05531447674,0.1233887515,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+INTS14,-1.376699337,0.1503753529,0.3007882397,FALSE,Bos taurus,milk production,FALSE,non-immune
+DNAJC4,-25.13686678,2.86E-14,1.88E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+XKR4,-1.548262989,0.1241742106,0.2668505907,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRNAC-GCA_121,-25.37060599,1.05E-14,7.08E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+RNF175,-3.111912451,0.09043705821,0.1772925947,FALSE,Bos taurus,milk production,FALSE,non-immune
+RGS13,-2.93012472,0.08644833064,0.2153616217,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC101902869,-25.37286651,1.65E-14,1.11E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+GPHN,-3.117557007,0.1194645491,0.2404298213,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112444541,-19.63962992,0.003447843714,0.01166994873,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC104971817,-1.171983534,0.02610586685,0.134851065,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR1777A,-24.63515728,2.15E-15,1.72E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+DISP3,-24.50099392,1.05E-14,7.32E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112443341,-25.27076992,1.01E-15,8.30E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ERFE,-1.629985724,0.1244448914,0.2763571488,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101907247,-24.50767794,2.55E-15,2.09E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TBX20,-24.33667067,1.47E-14,1.01E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAE-CUC_32,-24.86192701,7.94E-15,5.60E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+H2BC13,-25.33100956,5.43E-15,3.98E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112444908,-24.7161861,5.88E-15,4.18E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132344833,-7.034835594,0.02030964607,0.06845777696,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MSRB3,-24.36371715,2.68E-15,2.18E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343965,-25.17250301,5.38E-15,3.86E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+SVIL,-0.9910749019,0.1645040269,0.320596878,FALSE,Bos taurus,milk production,FALSE,non-immune
+MIR2297,-5.897858566,0.0495937604,0.1148971271,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+RTN4RL1,-3.602178088,0.05064238747,0.120333067,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447611,-2.362504334,0.06991252495,0.2208158271,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132343847,-6.560930697,0.07951920207,0.204887728,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LRRC7,-1.088416522,0.1387699782,0.3279608552,FALSE,Bos taurus,milk production,FALSE,non-immune
+GMNC,-2.262183351,0.1631746675,0.3442769353,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+JUNB,-23.28483253,6.87E-07,4.38E-06,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+PERM1,-2.343973443,0.1337277648,0.2789720121,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CCDC192,-1.924688593,0.1008108199,0.2271750665,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132342421,-25.11551994,4.98E-15,3.65E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112448402,-0.0617113437,0.03793392105,0.1947866997,FALSE,Bos indicus,MAP Infection,FALSE,non-immune
+LOC132342855,-3.650288914,0.0468067818,0.1558522328,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112442458,-24.06801084,9.37E-15,6.73E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112449048,-25.15503958,5.00E-16,4.75E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343675,-4.153566888,0.06677674488,0.1617023208,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC617396,-24.69292434,4.92E-14,3.23E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+ENTREP1,-10.01951845,0.02729391237,0.06654921779,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC100300449,-25.11872214,3.62E-15,2.69E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAG-UCC_34,-7.883045458,0.01991482062,0.05908955426,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC615223,-2.222418283,0.05119573691,0.1125640997,FALSE,Bos taurus,milk production,FALSE,non-immune
+FYB1,-1.032764465,0.1069899019,0.2206688534,FALSE,Bos taurus,milk production,FALSE,non-immune
+ATG16L2,-2.390611239,0.07506023239,0.194566487,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC100138302,-2.48885775,0.09307328862,0.2717723392,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+CDK5R1,-3.210434274,0.09775103802,0.2172479133,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+CPN2,-26.03034425,1.48E-15,1.15E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343394,-15.38879535,0.01929618736,0.04607627941,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+F11,-26.15432057,4.44E-16,4.16E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112447736,-24.68211867,6.38E-16,6.08E-15,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112446100,-25.71356834,2.28E-15,1.71E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+DNAH2,-3.171765885,0.07524545902,0.1741208785,FALSE,Bos taurus,milk production,FALSE,non-immune
+JAGN1,-1.979012765,0.1407586012,0.3313933641,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SPEF2,-25.05381511,2.79E-15,2.10E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+VIPR1,-25.19104932,1.67E-16,1.94E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAG-CCC_39,-7.582626021,0.02178631601,0.06509115766,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+ACOD1,-24.15568429,2.26E-14,1.53E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112449256,-3.065444141,0.03583347369,0.1336761882,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112447127,-24.44868674,2.24E-14,1.52E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC101905778,-3.263668889,0.1250660916,0.2600944439,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+DRC7,-19.01718263,0.0007897472329,0.003585921337,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132343896,-2.143942405,0.09873743114,0.2678756168,FALSE,Bos taurus,milk production,FALSE,non-immune
+CACNA1C,-24.34087907,8.99E-15,6.32E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+SMIM41,-6.589821994,0.08069396208,0.204613241,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+BGLAP,-25.42940144,2.91E-16,2.78E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112448918,-2.186970301,0.1057909165,0.3249240169,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+FAM170A,-24.80688859,1.42E-15,1.14E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAQ-CUG_1,-8.257504282,0.01812094277,0.05435930475,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+LOC132346431,-24.43084201,2.40E-14,1.59E-13,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC104968526,-1.636316202,0.08980655918,0.2131548045,FALSE,Bos taurus,milk production,FALSE,non-immune
+KLK14,-1.411266941,0.08930964356,0.2177852225,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112443896,-25.62414766,5.97E-16,5.16E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+IGIP,-6.464685863,0.05189341188,0.1478154443,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132346208,-2.227581747,0.06591059174,0.1622668558,FALSE,Bos taurus,milk production,FALSE,non-immune
+AZIN2,-24.8813382,3.05E-16,3.25E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR11972,-24.31656481,5.28E-14,3.45E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR584-5,-2.852454542,0.01374285014,0.1214447739,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TEX43,-25.2560991,1.11E-16,1.39E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132346914,-0.06585057655,0.03913815331,0.1535931456,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC112449424,-24.88225885,4.86E-15,3.58E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+EDARADD,-25.63698594,6.11E-16,5.41E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+L3MBTL1,-6.688213788,0.05408180057,0.1481610877,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+FMNL1,-0.8710873582,0.08748417404,0.1840825946,FALSE,Bos taurus,milk production,FALSE,non-immune
+BAIAP2L1,-2.304716682,0.1567010562,0.3269048193,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112445843,-25.37839519,1.19E-14,8.04E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC107131172,-6.945301033,0.03442440288,0.107974465,FALSE,Bos taurus,milk production,FALSE,non-immune
+GRIN2D,-25.34026561,1.12E-15,8.94E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112442802,-1.763455258,0.1381519371,0.3483137926,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SLC7A7,0.9495693387,0.04422998838,0.09892831926,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132344943,-1.491359961,0.02135652038,0.0923563979,FALSE,Bos taurus,milk production,FALSE,non-immune
+ALDH3A1,-24.94066618,4.72E-15,3.35E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112447574,-7.676608057,0.02799431315,0.06246035839,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LRRC17,-24.07705119,1.74E-14,1.20E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+SOX4,-1.72431771,0.1155492469,0.2789456797,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+CYP21A1P,-24.81196183,2.97E-15,2.28E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132342595,-6.176984644,0.04639210779,0.1166676532,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+SDE2,-24.20270674,2.30E-14,1.55E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+CDK3,-23.91432459,5.43E-15,4.08E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132346115,-5.380751973,0.02403957931,0.07076136213,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TMEM273,-2.181953983,0.09821318345,0.2481866024,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAW-CCA_65,-7.700177488,0.01626370571,0.053265335,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+RNF43,-24.73959151,1.17E-14,8.04E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC104973254,-4.840745897,0.05635855215,0.141448776,FALSE,Bos taurus,milk production,FALSE,non-immune
+SLC4A1,0.1680224667,0.08924079462,0.1904863974,FALSE,Bos taurus,milk production,FALSE,non-immune
+COPZ2,-5.655282252,0.152669973,0.3357760448,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132346086,-24.74746937,1.11E-15,9.60E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MMP2,-24.50768951,5.41E-16,5.44E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR2457,-6.280978124,0.04301327666,0.1116910831,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TAC4,-26.01552073,1.94E-16,1.97E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112447934,-5.351632287,0.04704838638,0.1317451693,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+FBLN2,-2.320063873,0.1147610463,0.2459717708,FALSE,Bos taurus,milk production,FALSE,non-immune
+CLEC11A,-23.17113202,5.84E-14,3.86E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112446802,-4.933515947,0.0442756914,0.1341531212,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TTR,-6.473765532,0.1379369482,0.2740261531,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+RAB11FIP4,-1.418008598,0.1952532169,0.4001032213,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+POLRMT,-24.60629602,4.09E-15,3.05E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+NUAK1,-6.560864148,0.1049674826,0.234666614,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+ZNF8,-2.484459413,0.1533019271,0.3150720729,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC789997,-3.954943075,0.08079944773,0.2187098961,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132343646,-25.21122474,1.93E-15,1.55E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+SLC22A11,-24.80502551,1.83E-14,1.21E-13,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC786870,-4.186777251,0.06578809636,0.1635293538,FALSE,Bos taurus,milk production,FALSE,non-immune
+FREY1,-25.31221702,1.86E-15,1.50E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112444847,-4.033999679,0.04334864874,0.1080028177,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132344138,-4.484422304,0.04696856714,0.1221115296,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+MAB21L3,-23.04269568,7.55E-06,4.67E-05,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC100849068,-2.315657795,0.06985755722,0.1491059872,FALSE,Bos taurus,milk production,FALSE,non-immune
+CAVIN3,-1.098858717,0.1339102884,0.2751527647,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC509972,-0.1013502201,0.06343858216,0.171529149,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+LOC132345150,-4.584656901,0.03134989134,0.1005869129,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC783300,-2.168415457,0.101280872,0.284005494,FALSE,Bos taurus,milk production,FALSE,non-immune
+LOC132343599,-11.52710042,0.005948433391,0.02127368321,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+NENF,-25.52858878,7.22E-16,6.19E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+SRGN,-25.11628705,5.27E-16,4.97E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MC4R,-24.60850747,7.77E-16,7.13E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MIR2285CB,-5.359770341,0.04206743969,0.09735891615,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAA-CGC_2,-22.56515984,0.003804023592,0.01091063122,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAG-GCC_26,-24.07192519,1.28E-14,8.80E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+CCDC192,-24.53648776,1.83E-15,1.51E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC101903496,-24.54224444,2.43E-15,1.93E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132342646,-23.95675821,3.03E-15,2.43E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC132345390,-25.73919749,1.07E-15,9.13E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TMEM262,-24.95318713,1.57E-15,1.26E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC112443489,-5.44799982,0.0518424072,0.1491184046,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+TRNAR-ACG_18,-25.13766085,1.16E-14,7.84E-14,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+GGNBP1,-5.425952289,0.07084269151,0.1771727106,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101902053,-24.88730862,2.39E-15,1.83E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+CATHL6,-25.75043538,1.11E-16,1.30E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+TRNAC-GCA_244,-20.08152445,0.001964642757,0.007251164185,FALSE,Bos taurus:Bos indicus,parasite T. annulata Infection,Not Present,non-immune
+BORCS7,-26.22507928,1.25E-16,1.42E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+AP4S1,-5.122436873,0.1579011002,0.3121685539,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112442843,1.30557586,0.1530706094,0.5200505215,FALSE,Bos taurus:Bos indicus,MAP Infection,FALSE,non-immune
+HEPACAM2,0.4577988308,0.08847357509,0.2087713297,FALSE,Bos taurus,MAP Infection,FALSE,non-immune
+SLC25A47,-4.213192186,0.1589134729,0.3280100875,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC112449073,-2.474493888,0.1646120066,0.3421306568,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC101903114,-2.613753648,0.0984948174,0.2126531607,FALSE,Bos taurus:Bos indicus,milk production,FALSE,non-immune
+LOC132344285,-2.827325517,0.09239613705,0.238945786,FALSE,Bos taurus,milk production,FALSE,non-immune
+TRIL,-5.279585798,0.05589523892,0.1276404118,FALSE,Bos taurus,milk production,FALSE,non-immune
+KIF3C,-25.16546248,2.08E-16,2.33E-15,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+MUC5AC,-24.9912632,2.01E-15,1.57E-14,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+LOC101908154,-25.75574388,5.55E-17,8.88E-16,FALSE,Bos taurus;Bos indicus,parasite T. annulata Infection,FALSE,non-immune
+OR56B42,-0.5829713606,0.02604899125,0.0700568051,FALSE,Bos taurus,milk production,FALSE,non-immune
