@@ -56,8 +56,23 @@ The deposited ImmFinder trained model (.keras format) can be utilized in multipl
 - `Understanding Model Architecture & Performance` : You can analyze the model's layer configurations, weight distributions, and intermediate activations to gain insights into the prediction process.
 
 ## To Load the Trained Model
-<pre> ```python from tensorflow import keras; model = keras.models.load_model("Best_validated_multimodal_model.keras"); model.summary() ``` </pre>
+```python
+from tensorflow.keras.models import load_model
+import numpy as np
+import pandas as pd
 
+# Load the model
+model = load_model("Best_validated_multimodal_model.keras")
+model.summary()
+
+# Dummy example input (replace this with your actual input shape and preprocessing)
+example_input = np.random.rand(1, 100)  # e.g., shape = (1, 100)
+or
+example_input = pd.read_csv("Datasets.csv") # Preprocessed input files
+
+# Predict
+prediction = model.predict(example_input)
+print("Prediction:", prediction)
 
 ## File Information
 - **Format:** Keras format for trained and validated models. CSV files for raw, splitted datasets and validated results. Python for data preprocessing, and model development.
