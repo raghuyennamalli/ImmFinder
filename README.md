@@ -74,6 +74,8 @@ example_input = pd.read_csv("Datasets.csv") # Preprocessed input files
 prediction = model.predict(example_input)
 print("Prediction:", prediction)
 
+```
+
 ## File Information
 - **Format:** Keras format for trained and validated models. CSV files for raw, splitted datasets and validated results. Python for data preprocessing, and model development.
 - **Data Source:** The structural variant data were identified by performing comparative genomic study between Bos taurus and Bos indicus using GSAlign and SyRI tool. The whole Genomic data of the both the cattle downloaded from NCBI. The bovine Gene expression data for infected and uninfected cases were extracted from GEO.
