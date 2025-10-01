@@ -4,7 +4,7 @@ Corresponding authors: ragothaman@scbt.sastra.edu
 ## Table of Contents
 •	Description
 •	Contents
-•	Methods
+•	Materials and Methods
 •	Results
 •	Installation
 •	Usage
@@ -19,7 +19,7 @@ ImmFinder is a multimodal fully connected neural network (FCNN) framework develo
 - `Result` : Performance metrics including accuracy, F1-score, precision, recall, and AUC-ROC scores for validated datasets.
 - `Script` : Scripts for data preprocessing, model training, and validation.
 
-## Methods
+## Materials and Methods
 - `Data Sources` : Structural variant data between the whole genome comparative study of Bos taurus and Bos indicus. Bovine Gene expression data for infected and uninfected sets are sourced from the Gene Expression Omnibus (GEO).
 - `Data Preprocessing` : Balancing the class (True positive and True negative), Encoding and standardization of the datasets. Splitting into training (60%), validation (20%), and testing (20%) sets.
 - `Model Architecture` : Two-branch FCNN with 12 fully connected dense layers (ReLU activation, 10% dropout). Concatenation of branches followed by a dense layer with two neurons. Final sigmoid output layer with one neuron (total of 27 neurons).
