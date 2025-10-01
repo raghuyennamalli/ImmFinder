@@ -1,4 +1,4 @@
-# "ImmFinder: A Fully Connected Neural Network for Immune Gene Classification in Livestock"
+# "ImmFinder: A Multiomics-based Neural Network approach for predicting the immune genes in livestock"
 Menaka Thambiraja1, Pavinap Priyaa Karthikeyan1$, Mezya Sezen1$, Shricharan Senthilkumar1$, Dheer Singh2, Suneel Kumar Onteru2*, Ragothaman M. Yennamalli1*
 Corresponding authors: ragothaman@scbt.sastra.edu
 ## Table of Contents
