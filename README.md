@@ -84,8 +84,8 @@ print("Prediction:", prediction)
 ## Contact
 For any queries or further information, please contact:
 Ragothaman M. Yennamalli
-Senior Assistant Professor, Department of Bioinformatics, School of Chemical and Biotechnology, SASTRA Deemed University
-Email: ragothaman@scbt.sastra.edu
+Assocaite Professor, School of Computational and Integrative Sciences, Jawaharlal Nehru University
+Email: ragothaman@jnu.ac.in
 ORCID: 0000-0002-3327-1582
 
 
